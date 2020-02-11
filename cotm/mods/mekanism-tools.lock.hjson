@@ -2,9 +2,9 @@
     provider: CURSE,
     dependencies: {
         REQUIRED: [
-            bookshelf
+            mekanism
         ]
     },
-    projectID: 283235,
-    fileID: 2860453
+    projectID: 268567,
+    fileID: 2835178
 }

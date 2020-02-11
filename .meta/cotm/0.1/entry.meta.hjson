@@ -217,6 +217,36 @@
             value: `squeek502`
         }
     },
+    applied-energistics-2: {
+        id: {
+            name: ID,
+            value: `applied-energistics-2`
+        },
+        version: {
+            name: Version,
+            value: `appliedenergistics2-rv6-stable-7.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: "`AlgorithmX2, FireBall1725, thatsIch, _ForgeUser16673090, _ForgeUser651564`"
+        }
+    },
     architect: {
         id: {
             name: ID,
@@ -3381,6 +3411,36 @@
             value: `thedarkcolour`
         }
     },
+    futurepack: {
+        id: {
+            name: ID,
+            value: `futurepack`
+        },
+        version: {
+            name: Version,
+            value: `Futurepack-1.12.2-26.4.89.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: `Mcenderdragon`
+        }
+    },
     grappling-hook-mod: {
         id: {
             name: ID,
@@ -3439,40 +3499,6 @@
         curse_author: {
             name: Author,
             value: "`TehNut, tombenpotter`"
-        }
-    },
-    hunting-dimension: {
-        id: {
-            name: ID,
-            value: `hunting-dimension`
-        },
-        version: {
-            name: Version,
-            value: `HuntingDimension-1.12.2-1.0.43.jar`
-        },
-        provider: {
-            name: Provider,
-            value: `CURSE`
-        },
-        side: {
-            name: Side,
-            value: `BOTH`
-        },
-        optional: {
-            name: Optional,
-            value: `false`
-        },
-        dependencies_required: {
-            name: "Required Dependencies",
-            value: `bookshelf`
-        },
-        curse_release_type: {
-            name: "Release Type",
-            value: `Alpha`
-        },
-        curse_author: {
-            name: Author,
-            value: `DarkhaxDev`
         }
     },
     immersive-engineering: {
@@ -4289,6 +4315,36 @@
             value: "`bonusboni, mDiyo, ProgWML6`"
         }
     },
+    matteroverdrive: {
+        id: {
+            name: ID,
+            value: `matteroverdrive`
+        },
+        version: {
+            name: Version,
+            value: `MatterOverdrive-1.12.2-0.7.1.0-universal.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: "`Buuz135, HRZNStudio, The_CodedOne`"
+        }
+    },
     max-potion-id-extender: {
         id: {
             name: ID,
@@ -4377,6 +4433,138 @@
         curse_author: {
             name: Author,
             value: `amadornes`
+        }
+    },
+    mekanism: {
+        id: {
+            name: ID,
+            value: `mekanism`
+        },
+        version: {
+            name: Version,
+            value: `Mekanism-1.12.2-9.8.3.390.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: "`bradyaidanc, pupnewfster, Thiakil, thommy101`"
+        }
+    },
+    mekanism-generators: {
+        id: {
+            name: ID,
+            value: `mekanism-generators`
+        },
+        version: {
+            name: Version,
+            value: `MekanismGenerators-1.12.2-9.8.3.390.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        dependencies_required: {
+            name: "Required Dependencies",
+            value: `mekanism`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: "`bradyaidanc, pupnewfster, Thiakil, thommy101`"
+        }
+    },
+    mekanism-tools: {
+        id: {
+            name: ID,
+            value: `mekanism-tools`
+        },
+        version: {
+            name: Version,
+            value: `MekanismTools-1.12.2-9.8.3.390.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        dependencies_required: {
+            name: "Required Dependencies",
+            value: `mekanism`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: "`bradyaidanc, pupnewfster, Thiakil, thommy101`"
+        }
+    },
+    mekanismores: {
+        id: {
+            name: ID,
+            value: `mekanismores`
+        },
+        version: {
+            name: Version,
+            value: `mekores-2.0.12.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        dependencies_required: {
+            name: "Required Dependencies",
+            value: `mekanism`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: `phantamanta44`
         }
     },
     metalchests: {
@@ -5447,74 +5635,6 @@
             value: `OreCruncher`
         }
     },
-    otg-skylands: {
-        id: {
-            name: ID,
-            value: `otg-skylands`
-        },
-        version: {
-            name: Version,
-            value: `OTG-Skylands-1.12.2-v5.jar`
-        },
-        provider: {
-            name: Provider,
-            value: `CURSE`
-        },
-        side: {
-            name: Side,
-            value: `BOTH`
-        },
-        optional: {
-            name: Optional,
-            value: `false`
-        },
-        dependencies_required: {
-            name: "Required Dependencies",
-            value: `open-terrain-generator`
-        },
-        curse_release_type: {
-            name: "Release Type",
-            value: `Release`
-        },
-        curse_author: {
-            name: Author,
-            value: "`mc_pitman, team_otg`"
-        }
-    },
-    otg-the-void: {
-        id: {
-            name: ID,
-            value: `otg-the-void`
-        },
-        version: {
-            name: Version,
-            value: `OTG-Void-1.12.2-v4.jar`
-        },
-        provider: {
-            name: Provider,
-            value: `CURSE`
-        },
-        side: {
-            name: Side,
-            value: `BOTH`
-        },
-        optional: {
-            name: Optional,
-            value: `false`
-        },
-        dependencies_required: {
-            name: "Required Dependencies",
-            value: `open-terrain-generator`
-        },
-        curse_release_type: {
-            name: "Release Type",
-            value: `Release`
-        },
-        curse_author: {
-            name: Author,
-            value: "`mc_pitman, team_otg`"
-        }
-    },
     outfox: {
         id: {
             name: ID,
@@ -6267,40 +6387,6 @@
             value: "`GigaBit101, modmuss50, ProspectorDev`"
         }
     },
-    rebornstorage: {
-        id: {
-            name: ID,
-            value: `rebornstorage`
-        },
-        version: {
-            name: Version,
-            value: `RebornStorage-1.12.2-3.3.4.1.jar`
-        },
-        provider: {
-            name: Provider,
-            value: `CURSE`
-        },
-        side: {
-            name: Side,
-            value: `BOTH`
-        },
-        optional: {
-            name: Optional,
-            value: `false`
-        },
-        dependencies_required: {
-            name: "Required Dependencies",
-            value: "`refined-storage`, `reborncore`"
-        },
-        curse_release_type: {
-            name: "Release Type",
-            value: `Release`
-        },
-        curse_author: {
-            name: Author,
-            value: "`GigaBit101, modmuss50`"
-        }
-    },
     recurrent-complex: {
         id: {
             name: ID,
@@ -6393,36 +6479,6 @@
         curse_author: {
             name: Author,
             value: `FyberOptic`
-        }
-    },
-    refined-storage: {
-        id: {
-            name: ID,
-            value: `refined-storage`
-        },
-        version: {
-            name: Version,
-            value: `refinedstorage-1.6.15.jar`
-        },
-        provider: {
-            name: Provider,
-            value: `CURSE`
-        },
-        side: {
-            name: Side,
-            value: `BOTH`
-        },
-        optional: {
-            name: Optional,
-            value: `false`
-        },
-        curse_release_type: {
-            name: "Release Type",
-            value: `Release`
-        },
-        curse_author: {
-            name: Author,
-            value: `raoulvdberge`
         }
     },
     rftools: {

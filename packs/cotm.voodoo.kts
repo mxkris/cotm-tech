@@ -124,9 +124,6 @@ root(CurseProvider) {
 
         // dimms
         +(Mod.theLostCities)
-        +(Mod.huntingDimension)
-        +(Mod.otgTheVoid)
-        +(Mod.otgSkylands)
 
         // unresolved/stubborn/forced dependencies
         +(Mod.mantle)
@@ -192,7 +189,6 @@ root(CurseProvider) {
         +(Mod.antighost)
         +(Mod.loginShield)
         +(Mod.caliper)
-        +(Mod.refinedStorage)
         +(Mod.flopper)
         +(Mod.wallJump)
         +(Mod.magicalMap)
@@ -204,7 +200,6 @@ root(CurseProvider) {
         +(Mod.surge)
         +(Mod.armoryExpansion)
         +(Mod.shadowfactsForgelin)
-        +(Mod.rebornstorage)
         +(Mod.theDisenchanterMod)
         +(Mod.doggyTalents)
         +(Mod.snad)
@@ -254,6 +249,13 @@ root(CurseProvider) {
         +(Mod.mcmultipart)
         +(Mod.environmentalTech)
         +(Mod.immersiveEngineering)
+        +(Mod.matteroverdrive)
+        +(Mod.mekanism)
+        +(Mod.mekanismGenerators)
+        +(Mod.mekanismTools)
+        +(Mod.mekanismores)
+        +(Mod.futurepack)
+        +(Mod.appliedEnergistics2)
 
         withProvider(DirectProvider).list {
             +"Nutrition" configure {

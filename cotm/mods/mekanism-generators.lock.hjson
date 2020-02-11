@@ -2,9 +2,9 @@
     provider: CURSE,
     dependencies: {
         REQUIRED: [
-            open-terrain-generator
+            mekanism
         ]
     },
-    projectID: 265901,
-    fileID: 2486111
+    projectID: 268566,
+    fileID: 2835177
 }

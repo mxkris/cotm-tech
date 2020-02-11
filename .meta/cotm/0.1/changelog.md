@@ -114,6 +114,20 @@ Author |  | `squeek502`
 
 
 
+added `applied-energistics-2`
+
+Property | old value | new value
+---|---|---
+ID |  | `applied-energistics-2`
+Version |  | `appliedenergistics2-rv6-stable-7.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `AlgorithmX2, FireBall1725, thatsIch, _ForgeUser16673090, _ForgeUser651564`
+
+
+
 added `architect`
 
 Property | old value | new value
@@ -1555,6 +1569,20 @@ Author |  | `thedarkcolour`
 
 
 
+added `futurepack`
+
+Property | old value | new value
+---|---|---
+ID |  | `futurepack`
+Version |  | `Futurepack-1.12.2-26.4.89.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `Mcenderdragon`
+
+
+
 added `grappling-hook-mod`
 
 Property | old value | new value
@@ -1580,21 +1608,6 @@ Side |  | `BOTH`
 Optional |  | `false`
 Release Type |  | `Release`
 Author |  | `TehNut, tombenpotter`
-
-
-
-added `hunting-dimension`
-
-Property | old value | new value
----|---|---
-ID |  | `hunting-dimension`
-Version |  | `HuntingDimension-1.12.2-1.0.43.jar`
-Provider |  | `CURSE`
-Side |  | `BOTH`
-Optional |  | `false`
-Required Dependencies |  | `bookshelf`
-Release Type |  | `Alpha`
-Author |  | `DarkhaxDev`
 
 
 
@@ -1964,6 +1977,20 @@ Author |  | `bonusboni, mDiyo, ProgWML6`
 
 
 
+added `matteroverdrive`
+
+Property | old value | new value
+---|---|---
+ID |  | `matteroverdrive`
+Version |  | `MatterOverdrive-1.12.2-0.7.1.0-universal.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `Buuz135, HRZNStudio, The_CodedOne`
+
+
+
 added `max-potion-id-extender`
 
 Property | old value | new value
@@ -2003,6 +2030,65 @@ Side |  | `BOTH`
 Optional |  | `false`
 Release Type |  | `Release`
 Author |  | `amadornes`
+
+
+
+added `mekanism`
+
+Property | old value | new value
+---|---|---
+ID |  | `mekanism`
+Version |  | `Mekanism-1.12.2-9.8.3.390.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `bradyaidanc, pupnewfster, Thiakil, thommy101`
+
+
+
+added `mekanism-generators`
+
+Property | old value | new value
+---|---|---
+ID |  | `mekanism-generators`
+Version |  | `MekanismGenerators-1.12.2-9.8.3.390.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `mekanism`
+Release Type |  | `Release`
+Author |  | `bradyaidanc, pupnewfster, Thiakil, thommy101`
+
+
+
+added `mekanism-tools`
+
+Property | old value | new value
+---|---|---
+ID |  | `mekanism-tools`
+Version |  | `MekanismTools-1.12.2-9.8.3.390.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `mekanism`
+Release Type |  | `Release`
+Author |  | `bradyaidanc, pupnewfster, Thiakil, thommy101`
+
+
+
+added `mekanismores`
+
+Property | old value | new value
+---|---|---
+ID |  | `mekanismores`
+Version |  | `mekores-2.0.12.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `mekanism`
+Release Type |  | `Release`
+Author |  | `phantamanta44`
 
 
 
@@ -2494,36 +2580,6 @@ Author |  | `OreCruncher`
 
 
 
-added `otg-skylands`
-
-Property | old value | new value
----|---|---
-ID |  | `otg-skylands`
-Version |  | `OTG-Skylands-1.12.2-v5.jar`
-Provider |  | `CURSE`
-Side |  | `BOTH`
-Optional |  | `false`
-Required Dependencies |  | `open-terrain-generator`
-Release Type |  | `Release`
-Author |  | `mc_pitman, team_otg`
-
-
-
-added `otg-the-void`
-
-Property | old value | new value
----|---|---
-ID |  | `otg-the-void`
-Version |  | `OTG-Void-1.12.2-v4.jar`
-Provider |  | `CURSE`
-Side |  | `BOTH`
-Optional |  | `false`
-Required Dependencies |  | `open-terrain-generator`
-Release Type |  | `Release`
-Author |  | `mc_pitman, team_otg`
-
-
-
 added `outfox`
 
 Property | old value | new value
@@ -2868,21 +2924,6 @@ Author |  | `GigaBit101, modmuss50, ProspectorDev`
 
 
 
-added `rebornstorage`
-
-Property | old value | new value
----|---|---
-ID |  | `rebornstorage`
-Version |  | `RebornStorage-1.12.2-3.3.4.1.jar`
-Provider |  | `CURSE`
-Side |  | `BOTH`
-Optional |  | `false`
-Required Dependencies |  | `refined-storage`, `reborncore`
-Release Type |  | `Release`
-Author |  | `GigaBit101, modmuss50`
-
-
-
 added `recurrent-complex`
 
 Property | old value | new value
@@ -2923,20 +2964,6 @@ Side |  | `BOTH`
 Optional |  | `false`
 Release Type |  | `Release`
 Author |  | `FyberOptic`
-
-
-
-added `refined-storage`
-
-Property | old value | new value
----|---|---
-ID |  | `refined-storage`
-Version |  | `refinedstorage-1.6.15.jar`
-Provider |  | `CURSE`
-Side |  | `BOTH`
-Optional |  | `false`
-Release Type |  | `Release`
-Author |  | `raoulvdberge`
 
 
 
