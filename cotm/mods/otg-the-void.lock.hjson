@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            open-terrain-generator
+        ]
+    },
+    projectID: 265903,
+    fileID: 2486113
+}

@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            applecore
+        ]
+    },
+    projectID: 277616,
+    fileID: 2731062
+}

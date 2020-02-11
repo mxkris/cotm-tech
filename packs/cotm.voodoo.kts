@@ -7,9 +7,9 @@
 @file:GenerateForge(name = "Forge", mc = "1.12.2")
 
 mcVersion = "1.12.2"
-title = "Center of the Multiverse"
-authors = listOf("AnsuzThuriaz", "Falkreon", "NikkyAi")
-version = "2.4.3-testing5"
+title = "Center of the Multiverse - Tech Edition"
+authors = listOf("AnsuzThuriaz")
+version = "0.1"
 forge = Forge.mc1_12_2.forge_14_23_5_2847
 icon = rootDir.resolve("icon.png")
 pack {
@@ -35,7 +35,6 @@ root(CurseProvider) {
 
         // Vazkii
         +(Mod.akashicTome)
-        +(Mod.botania)
         +(Mod.psi)
         +(Mod.quark)
         +(Mod.quarkOddities)
@@ -44,9 +43,6 @@ root(CurseProvider) {
 
         // Sangar
         +(Mod.architect)
-
-        // HellFirePvP
-        +(Mod.astralSorcery)
 
         // Nuchaz
         +(Mod.bibliocraft)
@@ -105,8 +101,6 @@ root(CurseProvider) {
         // Subaraki
         +(Mod.paintings)
 
-        // azanor
-        +(Mod.thaumcraft)
         +(Mod.baubles)
 
         // TheRandomLabs
@@ -129,14 +123,8 @@ root(CurseProvider) {
         +(Mod.unlimitedChiselWorks)
 
         // dimms
-        +(Mod.atum)
         +(Mod.theLostCities)
-        +(Mod.angryPixelTheBetweenlandsMod)
-        +(Mod.theAether)
-        +(Mod.theErebus)
-        +(Mod.dimensionaldoors)
         +(Mod.huntingDimension)
-        +(Mod.theTwilightForest)
         +(Mod.otgTheVoid)
         +(Mod.otgSkylands)
 
@@ -168,7 +156,6 @@ root(CurseProvider) {
         +(Mod.naturesCompass)
         +(Mod.netherex)
         +(Mod.netherportalfix)
-        +(Mod.stimmedcowNomorerecipeconflict)
         +(Mod.notenoughids)
         +(Mod.opencomputers)
         +(Mod.openblocks)
@@ -179,7 +166,6 @@ root(CurseProvider) {
         +(Mod.recurrentComplex)
         +(Mod.redstoneFlux)
         +(Mod.roguelikeDungeons)
-        +(Mod.roots)
         +(Mod.scannable)
         +(Mod.simpleSponge)
         +(Mod.spartanShields)
@@ -195,16 +181,11 @@ root(CurseProvider) {
         +(Mod.roboticparts)
         +(Mod.woot)
         +(Mod.quickLeafDecay)
-        +(Mod.bloodMagic)
         +(Mod.constructsArmory)
         +(Mod.yoyos)
         +(Mod.badWitherNoCookieReloaded)
-        +(Mod.waystones)
         +(Mod.corpseComplex)
-        +(Mod.thaumcraftInventoryScanning)
         +(Mod.peckish)
-        +(Mod.electroblobsWizardry)
-        +(Mod.reliquaryV13)
         +(Mod.fastworkbench)
         +(Mod.fastfurnace)
         +(Mod.betterBuildersWands)
@@ -217,7 +198,6 @@ root(CurseProvider) {
         +(Mod.magicalMap)
         +(Mod.pewter)
         +(Mod.grapplingHookMod)
-        +(Mod.embersRekindled)
         +(Mod.outfox)
         +(Mod.chococraft3)
         +(Mod.portality)
@@ -228,24 +208,18 @@ root(CurseProvider) {
         +(Mod.theDisenchanterMod)
         +(Mod.doggyTalents)
         +(Mod.snad)
-        +(Mod.fluxNetworks)
-        +(Mod.refinedStorageAddons)
         +(Mod.compactdrawers)
         +(Mod.blockcraftery)
         +(Mod.modularPowersuits)
         +(Mod.colytra)
         +(Mod.architecturecraftTridev)
         +(Mod.draconicEvolution)
-        +(Mod.numina)
         +(Mod.futureMc)
         +(Mod.phosphor)
         +(Mod.aiImprovements)
         +(Mod.placebo)
-        +(Mod.futureMc)
         +(Mod.actuallyAdditions)
-        +(Mod.naturalPledge)
         +(Mod.advancedRocketry)
-        +(Mod.bewitchment)
         +(Mod.endMetals)
         +(Mod.netherMetals)
         +(Mod.denseMetals)
@@ -254,53 +228,30 @@ root(CurseProvider) {
         +(Mod.timberjack)
         +(Mod.culinaryConstruct)
         +(Mod.openmodularturrets)
-        +(Mod.hardcoreQuestingMode)
         +(Mod.bedPatch)
-        +(Mod.minetweakerRecipemaker)
         +(Mod.crafttweaker)
         +(Mod.modtweaker)
-        +(Mod.tweakersConstruct)
         +(Mod.randomPsideas)
         +(Mod.projectIntelligence)
         +(Mod.customMainMenu)
         +(Mod.shadowfactsForgelin)
         +(Mod.plustic)
         +(Mod.spiceOfLifeCarrotEdition)
-        +(Mod.wings)
-        +(Mod.grimoireOfGaia)
         +(Mod.maxPotionIdExtender)
         +(Mod.calculator)
-        +(Mod.dm2)
-        +(Mod.soot)
-        +(Mod.cyclic)
-        +(Mod.spiceOfLifeCarrotEdition)
-        +(Mod.projectIntelligence)
-        +(Mod.customMainMenu)
-        +(Mod.shadowfactsForgelin)
-        +(Mod.hardcoreQuestingMode)
         +(Mod.bedPatch)
         +(Mod.minetweakerRecipemaker)
-        +(Mod.crafttweaker)
-        +(Mod.modtweaker)
-        +(Mod.tweakersConstruct)
         +(Mod.dragonDropsElytra)
-        +(Mod.clockworkPhase)
         +(Mod.bonsaiTrees)
-        +(Mod.incorporeal)
         +(Mod.chestTransporter)
-        +(Mod.abyssalcraft)
-        +(Mod.abyssalcraftIntegration)
         +(Mod.avaritia110)
-        +(Mod.soot)
         +(Mod.biomeBundle)
         +(Mod.openTerrainGenerator)
-        +(Mod.mysticalGears)
         +(Mod.industrialForegoing)
         +(Mod.tinkersComplement)
         +(Mod.claySoldiersMod)
         +(Mod.notenoughcodecs)
         +(Mod.mcmultipart)
-        +(Mod.animania)
         +(Mod.environmentalTech)
         +(Mod.immersiveEngineering)
 
