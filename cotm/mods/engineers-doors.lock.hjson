@@ -1,11 +1,10 @@
 {
     provider: CURSE,
-    side: CLIENT,
     dependencies: {
         REQUIRED: [
-            jei
+            immersive-engineering
         ]
     },
-    projectID: 240630,
-    fileID: 2728585
+    projectID: 291126,
+    fileID: 2625854
 }

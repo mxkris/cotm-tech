@@ -1,11 +1,10 @@
 {
     provider: CURSE,
-    side: CLIENT,
     dependencies: {
         REQUIRED: [
-            jei
+            ptrlib
         ]
     },
-    projectID: 240630,
-    fileID: 2728585
+    projectID: 79616,
+    fileID: 2777813
 }

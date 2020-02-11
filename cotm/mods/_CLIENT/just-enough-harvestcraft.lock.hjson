@@ -1,9 +1,6 @@
 {
     provider: CURSE,
     side: CLIENT,
-    description: "JEI Integration for Pam's HarvestCraft.",
-    optionalData: {
-    },
     dependencies: {
         REQUIRED: [
             jei,

@@ -2,9 +2,10 @@
     provider: CURSE,
     dependencies: {
         REQUIRED: [
-            guide-api
+            chisel,
+            ctm
         ]
     },
-    projectID: 244049,
-    fileID: 2712670
+    projectID: 302514,
+    fileID: 2663096
 }

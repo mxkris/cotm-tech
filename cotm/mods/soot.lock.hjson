@@ -1,11 +1,10 @@
 {
     provider: CURSE,
-    side: CLIENT,
     dependencies: {
         REQUIRED: [
-            baubles
+            embers-rekindled
         ]
     },
-    projectID: 223628,
-    fileID: 2629023
+    projectID: 281528,
+    fileID: 2697925
 }

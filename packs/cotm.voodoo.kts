@@ -9,7 +9,7 @@
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.1"
+version = "0.1test1"
 forge = Forge.mc1_12_2.forge_14_23_5_2847
 icon = rootDir.resolve("icon.png")
 pack {
@@ -89,9 +89,6 @@ root(CurseProvider) {
         +(Mod.rftoolsPower)
         +(Mod.theOneProbe)
 
-        // Mr_Crayfish
-        +(Mod.mrcrayfishFurnitureMod)
-
         // zabi94
         +(Mod.extraAlchemy)
 
@@ -131,7 +128,7 @@ root(CurseProvider) {
         +(Mod.shadowfactsForgelin)
         +(Mod.bookshelf)
         +(Mod.placebo)
-        +(Mod.shadowfactsForgelin)
+        +(Mod.numina)
 
         // unsorted mods
         +(Mod.enderStorage18)
@@ -176,7 +173,6 @@ root(CurseProvider) {
         +(Mod.toolBelt)
         +(Mod.torchmaster)
         +(Mod.roboticparts)
-        +(Mod.woot)
         +(Mod.quickLeafDecay)
         +(Mod.constructsArmory)
         +(Mod.yoyos)
@@ -199,7 +195,6 @@ root(CurseProvider) {
         +(Mod.portality)
         +(Mod.surge)
         +(Mod.armoryExpansion)
-        +(Mod.shadowfactsForgelin)
         +(Mod.theDisenchanterMod)
         +(Mod.doggyTalents)
         +(Mod.snad)
@@ -208,7 +203,6 @@ root(CurseProvider) {
         +(Mod.modularPowersuits)
         +(Mod.colytra)
         +(Mod.architecturecraftTridev)
-        +(Mod.draconicEvolution)
         +(Mod.futureMc)
         +(Mod.phosphor)
         +(Mod.aiImprovements)
@@ -220,7 +214,6 @@ root(CurseProvider) {
         +(Mod.denseMetals)
         +(Mod.buildingGadgets)
         +(Mod.stevesCartsReborn)
-        +(Mod.timberjack)
         +(Mod.culinaryConstruct)
         +(Mod.openmodularturrets)
         +(Mod.bedPatch)
@@ -229,7 +222,6 @@ root(CurseProvider) {
         +(Mod.randomPsideas)
         +(Mod.projectIntelligence)
         +(Mod.customMainMenu)
-        +(Mod.shadowfactsForgelin)
         +(Mod.plustic)
         +(Mod.spiceOfLifeCarrotEdition)
         +(Mod.maxPotionIdExtender)
@@ -240,8 +232,6 @@ root(CurseProvider) {
         +(Mod.bonsaiTrees)
         +(Mod.chestTransporter)
         +(Mod.avaritia110)
-        +(Mod.biomeBundle)
-        +(Mod.openTerrainGenerator)
         +(Mod.industrialForegoing)
         +(Mod.tinkersComplement)
         +(Mod.claySoldiersMod)
@@ -256,6 +246,18 @@ root(CurseProvider) {
         +(Mod.mekanismores)
         +(Mod.futurepack)
         +(Mod.appliedEnergistics2)
+        +(Mod.cathedral)
+        +(Mod.decocraft)
+        +(Mod.yungsBetterCaves)
+        +(Mod.deepMobLearning)
+        +(Mod.biomesOPlenty)
+        +(Mod.apotheosis)
+        +(Mod.cyclic)
+        +(Mod.engineersDecor)
+        +(Mod.engineersTools)
+        +(Mod.engineersDoors)
+        +(Mod.embersRekindled)
+        +(Mod.soot)
 
         withProvider(DirectProvider).list {
             +"Nutrition" configure {
@@ -263,25 +265,16 @@ root(CurseProvider) {
             }
         }
 
-        // Pre-Testing / Un-used / Pulled due to issues
-        // +(Mod.inControl)
-        // +(Mod.justEnoughDimensions)
-
         withProvider(JenkinsProvider) {
             jenkinsUrl = "https://ci.elytradev.com"
         }.list {
             // b0undrybreaker
-            +"friendship-bracelet" job "elytra/FriendshipBracelet/master"
             +"infra-redstone" job "elytra/InfraRedstone/1.12.2"
 
             // Falkreon
             +"thermionics" job "elytra/Thermionics/master"
             +"thermionics-world" job "elytra/ThermionicsWorld/master"
-            +"magic-arsenal" job "elytra/MagicArsenal/master"
             +"engination" job "elytra/Engination/master"
-
-            // unascribed
-            +"glass-hearts" job "elytra/GlassHearts/1.12.1"
         }
 
         group {
@@ -331,6 +324,9 @@ root(CurseProvider) {
             +(Mod.craftingTweaks)
             +(Mod.betterAdvancements)
             +(Mod.tinkersJei)
+            +(Mod.lootCapacitorTooltips)
+            +(Mod.justEnoughHarvestcraft)
+            +(Mod.justEnoughResourcesJer)
 
             // OPT-OUT
             group {
@@ -379,29 +375,25 @@ root(CurseProvider) {
                 }
             }.list {
 
-                +(Mod.betterFoliage) configure {
-                    description = "Improves the flora in the world. Very heavy, but very pretty. (Sane defaults set.)"
-                }
+//                +(Mod.betterFoliage) configure {
+//                    description = "Improves the flora in the world. Very heavy, but very pretty. (Sane defaults set.)"
+//                }
 
-                +(Mod.thaumicJei) configure {
-                    description = "JEI Integration for Thaumcraft."
-                }
+//                +(Mod.justEnoughHarvestcraft) configure {
+//                    description = "JEI Integration for Pam's HarvestCraft."
+//                }
 
-                +(Mod.justEnoughHarvestcraft) configure {
-                    description = "JEI Integration for Pam's HarvestCraft."
-                }
+//                +(Mod.justEnoughResourcesJer) configure {
+//                    description = "JEI Integration that gives drop-rates for mobs, dungeon loot, etc."
+//                }
 
-                +(Mod.justEnoughResourcesJer) configure {
-                    description = "JEI Integration that gives drop-rates for mobs, dungeon loot, etc."
-                }
+//                +(Mod.itemScroller) configure {
+//                    description = "Alternative to MouseTweaks."
+//                }
 
-                +(Mod.itemScroller) configure {
-                    description = "Alternative to MouseTweaks."
-                }
-
-                +(Mod.xaerosMinimap) configure {
-                    description = "Alternative to Journeymap."
-                }
+//                +(Mod.xaerosMinimap) configure {
+//                    description = "Alternative to Journeymap."
+//                }
 
                 +(Mod.minemenu) configure {
                     description =
@@ -420,19 +412,19 @@ root(CurseProvider) {
                     description = "Toggle-able item/tool/armor durability HUD. Duplicates with RPG-HUD."
                 }
 
-                +(Mod.fancyBlockParticles) configure {
-                    description =
-                            "Caution: Resource heavy. Adds some flair to particle effects and animations. Highly configurable, costs fps."
-                }
+//                +(Mod.fancyBlockParticles) configure {
+//                    description =
+//                            "Caution: Resource heavy. Adds some flair to particle effects and animations. Highly configurable, costs fps."
+//                }
 
-                +(Mod.dynamicSurroundings) configure {
-                    description =
-                            "Caution: Resource heavy. Lots of configurable features that add immersive sound/visual effects. Includes light-level overlay."
-                }
+//                +(Mod.dynamicSurroundings) configure {
+//                    description =
+//                            "Caution: Resource heavy. Lots of configurable features that add immersive sound/visual effects. Includes light-level overlay."
+//                }
 
-                +(Mod.chunkAnimator) configure {
-                    description = "Configurable chunk pop-in animator."
-                }
+//                +(Mod.chunkAnimator) configure {
+//                    description = "Configurable chunk pop-in animator."
+//                }
 
                 +(Mod.fasterLadderClimbing) configure {
                     description = "Helps you control ladder climb speed and allows you to go a bit faster."

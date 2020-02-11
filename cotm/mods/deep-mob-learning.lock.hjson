@@ -2,9 +2,9 @@
     provider: CURSE,
     dependencies: {
         REQUIRED: [
-            open-terrain-generator
+            patchouli
         ]
     },
-    projectID: 241542,
-    fileID: 2505277
+    projectID: 284229,
+    fileID: 2718649
 }
