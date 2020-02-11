@@ -1,0 +1,24 @@
+# idea
+.idea/
+*.iml
+
+# gradle
+.gradle/
+build/
+out/
+
+# voodoo
+workspace/*.jar
+loaders/
+.curse/
+_upload/
+.voodoo/
+*.zip
+.server/
+.multimc/
+.history/
+workspace/
+server_cotm/
+bootstrap-voodoo.jar
+modpack-creator.jar
+reports/
