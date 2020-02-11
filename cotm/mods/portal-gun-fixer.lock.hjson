@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            portal-gun
+        ]
+    },
+    projectID: 324827,
+    fileID: 2727226
+}

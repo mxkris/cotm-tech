@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            wrapup
+        ]
+    },
+    projectID: 266936,
+    fileID: 2722779
+}

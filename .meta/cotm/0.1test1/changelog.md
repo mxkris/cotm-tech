@@ -24,6 +24,35 @@ Author |  | `Shadows_of_Fire`
 
 
 
+added `bdlib`
+
+Property | old value | new value
+---|---|---
+ID |  | `bdlib`
+Version |  | `bdlib-1.14.3.12-mc1.12.2.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Beta`
+Author |  | `bdew`
+
+
+
+added `binnies-mods`
+
+Property | old value | new value
+---|---|---
+ID |  | `binnies-mods`
+Version |  | `binnie-mods-1.12.2-2.5.1.198.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `forestry`
+Release Type |  | `Alpha`
+Author |  | `mezz, _ForgeUser9116757`
+
+
+
 added `biomes-o-plenty`
 
 Property | old value | new value
@@ -154,6 +183,65 @@ Author |  | `wilechaote`
 
 
 
+added `forestry`
+
+Property | old value | new value
+---|---|---
+ID |  | `forestry`
+Version |  | `forestry_1.12.2-5.8.2.409.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Beta`
+Author |  | `Covert_Jaguar, mezz, MysteriousAges, _ForgeUser7678633`
+
+
+
+added `gendustry`
+
+Property | old value | new value
+---|---|---
+ID |  | `gendustry`
+Version |  | `gendustry-1.6.5.8-mc1.12.2.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `bdlib`, `forestry`
+Release Type |  | `Beta`
+Author |  | `bdew`
+
+
+
+added `hunting-dimension`
+
+Property | old value | new value
+---|---|---
+ID |  | `hunting-dimension`
+Version |  | `HuntingDimension-1.12.2-1.0.43.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `bookshelf`
+Release Type |  | `Alpha`
+Author |  | `DarkhaxDev`
+
+
+
+added `jaopca`
+
+Property | old value | new value
+---|---|---
+ID |  | `jaopca`
+Version |  | `JAOPCA-1.12.2-2.2.8.103.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `wrapup`
+Release Type |  | `Release`
+Author |  | `TheLMiffy1111`
+
+
+
 added `loot-capacitor-tooltips`
 
 Property | old value | new value
@@ -196,6 +284,35 @@ Author |  | `ProfMobius, RazzleberryFox, taelnia`
 
 
 
+added `rainbow-oak-trees`
+
+Property | old value | new value
+---|---|---
+ID |  | `rainbow-oak-trees`
+Version |  | `RainbowOaks-1.12-1.0.4.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `csb987`
+
+
+
+added `simple-void-world`
+
+Property | old value | new value
+---|---|---
+ID |  | `simple-void-world`
+Version |  | `Simple-Void-World-1.12-1.2.0.9-universal.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `reborncore`
+Release Type |  | `Release`
+Author |  | `modmuss50`
+
+
+
 added `soot`
 
 Property | old value | new value
@@ -208,6 +325,20 @@ Optional |  | `false`
 Required Dependencies |  | `embers-rekindled`
 Release Type |  | `Release`
 Author |  | `BordListian`
+
+
+
+added `wrapup`
+
+Property | old value | new value
+---|---|---
+ID |  | `wrapup`
+Version |  | `WrapUp-1.12-1.1.3.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `TheLMiffy1111`
 
 
 
@@ -392,6 +523,21 @@ Side | `BOTH` |
 Optional | `false` | 
 Release Type | `Release` | 
 Author | `TehNut, tombenpotter` | 
+
+
+
+removed `item-scroller`
+
+Property | old value | new value
+---|---|---
+ID | `item-scroller` | 
+Version | `itemscroller-1.12.2-0.12.0.jar` | 
+Provider | `CURSE` | 
+Side | `CLIENT` | 
+Description | `Alternative to MouseTweaks.` | 
+Optional | `true` | 
+Release Type | `Release` | 
+Author | `masady` | 
 
 
 

@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            shetiphiancore
+        ]
+    },
+    projectID: 244786,
+    fileID: 2616061
+}

@@ -499,6 +499,36 @@
             value: `Azanor13`
         }
     },
+    bdlib: {
+        id: {
+            name: ID,
+            value: `bdlib`
+        },
+        version: {
+            name: Version,
+            value: `bdlib-1.14.3.12-mc1.12.2.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Beta`
+        },
+        curse_author: {
+            name: Author,
+            value: `bdew`
+        }
+    },
     bed-patch: {
         id: {
             name: ID,
@@ -677,6 +707,40 @@
         curse_author: {
             name: Author,
             value: `Nuchaz`
+        }
+    },
+    binnies-mods: {
+        id: {
+            name: ID,
+            value: `binnies-mods`
+        },
+        version: {
+            name: Version,
+            value: `binnie-mods-1.12.2-2.5.1.198.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        dependencies_required: {
+            name: "Required Dependencies",
+            value: `forestry`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Alpha`
+        },
+        curse_author: {
+            name: Author,
+            value: "`mezz, _ForgeUser9116757`"
         }
     },
     biomes-o-plenty: {
@@ -3275,6 +3339,36 @@
             value: `asiekierka`
         }
     },
+    forestry: {
+        id: {
+            name: ID,
+            value: `forestry`
+        },
+        version: {
+            name: Version,
+            value: `forestry_1.12.2-5.8.2.409.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Beta`
+        },
+        curse_author: {
+            name: Author,
+            value: "`Covert_Jaguar, mezz, MysteriousAges, _ForgeUser7678633`"
+        }
+    },
     ftb-backups: {
         id: {
             name: ID,
@@ -3459,6 +3553,40 @@
             value: `Mcenderdragon`
         }
     },
+    gendustry: {
+        id: {
+            name: ID,
+            value: `gendustry`
+        },
+        version: {
+            name: Version,
+            value: `gendustry-1.6.5.8-mc1.12.2.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        dependencies_required: {
+            name: "Required Dependencies",
+            value: "`bdlib`, `forestry`"
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Beta`
+        },
+        curse_author: {
+            name: Author,
+            value: `bdew`
+        }
+    },
     grappling-hook-mod: {
         id: {
             name: ID,
@@ -3487,6 +3615,40 @@
         curse_author: {
             name: Author,
             value: `yyonne`
+        }
+    },
+    hunting-dimension: {
+        id: {
+            name: ID,
+            value: `hunting-dimension`
+        },
+        version: {
+            name: Version,
+            value: `HuntingDimension-1.12.2-1.0.43.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        dependencies_required: {
+            name: "Required Dependencies",
+            value: `bookshelf`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Alpha`
+        },
+        curse_author: {
+            name: Author,
+            value: `DarkhaxDev`
         }
     },
     immersive-engineering: {
@@ -3617,40 +3779,6 @@
             value: "`JimeoWan, Kobata`"
         }
     },
-    item-scroller: {
-        id: {
-            name: ID,
-            value: `item-scroller`
-        },
-        version: {
-            name: Version,
-            value: `itemscroller-1.12.2-0.12.0.jar`
-        },
-        provider: {
-            name: Provider,
-            value: `CURSE`
-        },
-        side: {
-            name: Side,
-            value: `CLIENT`
-        },
-        description: {
-            name: Description,
-            value: "`Alternative to MouseTweaks.`"
-        },
-        optional: {
-            name: Optional,
-            value: `true`
-        },
-        curse_release_type: {
-            name: "Release Type",
-            value: `Release`
-        },
-        curse_author: {
-            name: Author,
-            value: `masady`
-        }
-    },
     itemzoom: {
         id: {
             name: ID,
@@ -3713,6 +3841,40 @@
         curse_author: {
             name: Author,
             value: `Ivorforce`
+        }
+    },
+    jaopca: {
+        id: {
+            name: ID,
+            value: `jaopca`
+        },
+        version: {
+            name: Version,
+            value: `JAOPCA-1.12.2-2.2.8.103.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        dependencies_required: {
+            name: "Required Dependencies",
+            value: `wrapup`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: `TheLMiffy1111`
         }
     },
     jei-integration: {
@@ -6153,6 +6315,36 @@
             value: `Lumien231`
         }
     },
+    rainbow-oak-trees: {
+        id: {
+            name: ID,
+            value: `rainbow-oak-trees`
+        },
+        version: {
+            name: Version,
+            value: `RainbowOaks-1.12-1.0.4.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: `csb987`
+        }
+    },
     random-psideas: {
         id: {
             name: ID,
@@ -6775,6 +6967,40 @@
         curse_author: {
             name: Author,
             value: "`Jackyy, Turkey2349`"
+        }
+    },
+    simple-void-world: {
+        id: {
+            name: ID,
+            value: `simple-void-world`
+        },
+        version: {
+            name: Version,
+            value: `Simple-Void-World-1.12-1.2.0.9-universal.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        dependencies_required: {
+            name: "Required Dependencies",
+            value: `reborncore`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: `modmuss50`
         }
     },
     slice: {
@@ -7927,6 +8153,36 @@
         curse_author: {
             name: Author,
             value: "`asiekierka, HeckinChloe, user-6837585`"
+        }
+    },
+    wrapup: {
+        id: {
+            name: ID,
+            value: `wrapup`
+        },
+        version: {
+            name: Version,
+            value: `WrapUp-1.12-1.1.3.jar`
+        },
+        provider: {
+            name: Provider,
+            value: `CURSE`
+        },
+        side: {
+            name: Side,
+            value: `BOTH`
+        },
+        optional: {
+            name: Optional,
+            value: `false`
+        },
+        curse_release_type: {
+            name: "Release Type",
+            value: `Release`
+        },
+        curse_author: {
+            name: Author,
+            value: `TheLMiffy1111`
         }
     },
     yoyos: {

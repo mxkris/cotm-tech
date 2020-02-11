@@ -9,7 +9,7 @@
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.1test1"
+version = "0.1test3"
 forge = Forge.mc1_12_2.forge_14_23_5_2847
 icon = rootDir.resolve("icon.png")
 pack {
@@ -121,6 +121,9 @@ root(CurseProvider) {
 
         // dimms
         +(Mod.theLostCities)
+        +(Mod.simpleVoidWorld)
+        +(Mod.huntingDimension)
+        +(Mod.aroma1997sDimensionalWorld)
 
         // unresolved/stubborn/forced dependencies
         +(Mod.mantle)
@@ -258,7 +261,30 @@ root(CurseProvider) {
         +(Mod.engineersDoors)
         +(Mod.embersRekindled)
         +(Mod.soot)
-
+        +(Mod.rainbowOakTrees)
+        +(Mod.jaopca)
+        +(Mod.forestry)
+        +(Mod.gendustry)
+        +(Mod.binniesMods)
+        +(Mod.dimensionaldoors)
+        +(Mod.immersiveCables)
+        +(Mod.practicalLogistics2)
+        +(Mod.extracells2)
+        +(Mod.ae2Stuff)
+        +(Mod.wirelessCraftingTerminal)
+        +(Mod.rfLux)
+        +(Mod.redstoneArsenal)
+        +(Mod.simplyJetpacks2)
+        +(Mod.ironBackpacks)
+        +(Mod.compactMachines)
+        +(Mod.xtones)
+        +(Mod.literalAscension)
+        +(Mod.platforms)
+        +(Mod.portalGun)
+        +(Mod.portalGunFixer)
+        +(Mod.animania)
+        +(Mod.minecraftComesAliveMca)
+        
         withProvider(DirectProvider).list {
             +"Nutrition" configure {
                 url = "https://github.com/WesCook/Nutrition/releases/download/v4.4.0/Nutrition-1.12.2-4.4.0.jar"
@@ -385,10 +411,6 @@ root(CurseProvider) {
 
 //                +(Mod.justEnoughResourcesJer) configure {
 //                    description = "JEI Integration that gives drop-rates for mobs, dungeon loot, etc."
-//                }
-
-//                +(Mod.itemScroller) configure {
-//                    description = "Alternative to MouseTweaks."
 //                }
 
 //                +(Mod.xaerosMinimap) configure {
