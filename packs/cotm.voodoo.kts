@@ -6,10 +6,12 @@
 @file:GenerateTexturePacks(name = "TexturePack", mc = "1.12")
 @file:GenerateForge(name = "Forge", mc = "1.12.2")
 
+import voodoo.data.curse.ProjectID
+
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.1.1test1"
+version = "0.2.1"
 forge = Forge.mc1_12_2.forge_14_23_5_2847
 icon = rootDir.resolve("icon.png")
 pack {
@@ -279,12 +281,21 @@ root(CurseProvider) {
         +(Mod.xtones)
         +(Mod.literalAscension)
         +(Mod.platforms)
-        +(Mod.portalGun)
-        +(Mod.portalGunFixer)
         +(Mod.animania)
         +(Mod.minecraftComesAliveMca)
         +(Mod.engineersWorkshopReborn)
         +(Mod.bedrockores)
+        +(Mod.draconicEvolution)
+        +(Mod.emojicord)
+        +(Mod.saveMyStronghold)
+//            val emojicord: _root_ide_package_.voodoo.data.curse.ProjectID
+//        inline get() = _root_ide_package_.voodoo.data.curse.ProjectID(349107)
+//    // https://www.curseforge.com/minecraft/mc-mods/emojicord
+//
+//    val saveMyStronghold: _root_ide_package_.voodoo.data.curse.ProjectID
+//        inline get() = _root_ide_package_.voodoo.data.curse.ProjectID(355248)
+//    // https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold
+
         
         withProvider(DirectProvider).list {
             +"Nutrition" configure {
