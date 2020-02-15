@@ -9,7 +9,7 @@
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.1test4"
+version = "0.1.1test1"
 forge = Forge.mc1_12_2.forge_14_23_5_2847
 icon = rootDir.resolve("icon.png")
 pack {
@@ -229,7 +229,6 @@ root(CurseProvider) {
         +(Mod.spiceOfLifeCarrotEdition)
         +(Mod.maxPotionIdExtender)
         +(Mod.calculator)
-        +(Mod.bedPatch)
         +(Mod.minetweakerRecipemaker)
         +(Mod.dragonDropsElytra)
         +(Mod.bonsaiTrees)
@@ -285,6 +284,7 @@ root(CurseProvider) {
         +(Mod.animania)
         +(Mod.minecraftComesAliveMca)
         +(Mod.engineersWorkshopReborn)
+        +(Mod.bedrockores)
         
         withProvider(DirectProvider).list {
             +"Nutrition" configure {
