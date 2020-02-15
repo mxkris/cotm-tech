@@ -9,7 +9,7 @@
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.1test3"
+version = "0.1test4"
 forge = Forge.mc1_12_2.forge_14_23_5_2847
 icon = rootDir.resolve("icon.png")
 pack {
@@ -284,6 +284,7 @@ root(CurseProvider) {
         +(Mod.portalGunFixer)
         +(Mod.animania)
         +(Mod.minecraftComesAliveMca)
+        +(Mod.engineersWorkshopReborn)
         
         withProvider(DirectProvider).list {
             +"Nutrition" configure {
