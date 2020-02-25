@@ -2,9 +2,9 @@
     provider: CURSE,
     dependencies: {
         REQUIRED: [
-            applied-energistics-2
+            refined-storage
         ]
     },
-    projectID: 229218,
-    fileID: 2855967
+    projectID: 272302,
+    fileID: 2690723
 }

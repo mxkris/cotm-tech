@@ -5039,3 +5039,425 @@ Author | `KitsuneAlex` |
 
 
 
+
+# Center of the Multiverse - Tech Edition 0.2.2
+
+Property | old value | new value
+---|---|---
+Pack Version | `0.2.1` | `0.2.2`
+
+
+## Entries
+
+### Added Entries
+
+added `stimmedcow-nomorerecipeconflict`
+
+Property | old value | new value
+---|---|---
+ID |  | `stimmedcow-nomorerecipeconflict`
+Version |  | `NoMoreRecipeConflict-0.13(1.12.2).jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `GotoLink`
+
+
+
+### Updated Entries
+
+updated `advanced-rocketry`
+
+Property | old value | new value
+---|---|---
+Version | `AdvancedRocketry-1.12.2-1.7.0-204-universal.jar` | `AdvancedRocketry-1.12.2-1.7.0-205-universal.jar`
+
+
+
+updated `binnies-mods`
+
+Property | old value | new value
+---|---|---
+Version | `binnie-mods-1.12.2-2.5.1.198.jar` | `binnie-mods-1.12.2-2.5.1.200.jar`
+
+
+
+updated `constructs-armory`
+
+Property | old value | new value
+---|---|---
+Version | `conarm-1.12.2-1.2.5.3.jar` | `conarm-1.12.2-1.2.5.4.jar`
+
+
+
+updated `cosmetic-armor-reworked`
+
+Property | old value | new value
+---|---|---
+Version | `CosmeticArmorReworked-1.12.2-v4a.jar` | `CosmeticArmorReworked-1.12.2-v4b.jar`
+
+
+
+updated `tesla-core-lib`
+
+Property | old value | new value
+---|---|---
+Version | `tesla-core-lib-1.12.2-1.0.15.jar` | `tesla-core-lib-1.12.2-1.0.16.jar`
+
+
+
+### Removed Entries
+
+removed `cyclic`
+
+Property | old value | new value
+---|---|---
+ID | `cyclic` | 
+Version | `Cyclic-1.12.2-1.19.19.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Release Type | `Release` | 
+Author | `Lothrazar` | 
+
+
+
+removed `plustic`
+
+Property | old value | new value
+---|---|---
+ID | `plustic` | 
+Version | `plustic-7.1.6.1.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Required Dependencies | `tinkers-construct`, `mantle` | 
+Release Type | `Release` | 
+Author | `landmaster_phuong0429` | 
+
+
+
+
+
+
+
+# Center of the Multiverse - Tech Edition 0.3
+
+Property | old value | new value
+---|---|---
+Pack Version | `0.2.2` | `0.3`
+
+
+## Entries
+
+### Added Entries
+
+added `rebornstorage`
+
+Property | old value | new value
+---|---|---
+ID |  | `rebornstorage`
+Version |  | `RebornStorage-1.12.2-3.3.4.1.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `refined-storage`, `reborncore`
+Release Type |  | `Release`
+Author |  | `GigaBit101, modmuss50`
+
+
+
+added `refined-storage`
+
+Property | old value | new value
+---|---|---
+ID |  | `refined-storage`
+Version |  | `refinedstorage-1.6.15.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `raoulvdberge`
+
+
+
+added `refined-storage-addons`
+
+Property | old value | new value
+---|---|---
+ID |  | `refined-storage-addons`
+Version |  | `refinedstorageaddons-0.4.4.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Required Dependencies |  | `refined-storage`
+Release Type |  | `Release`
+Author |  | `raoulvdberge`
+
+
+
+### Updated Entries
+
+updated `advanced-rocketry`
+
+Property | old value | new value
+---|---|---
+Version | `AdvancedRocketry-1.12.2-1.7.0-205-universal.jar` | `AdvancedRocketry-1.12.2-1.7.0-207-universal.jar`
+
+
+
+updated `building-gadgets`
+
+Property | old value | new value
+---|---|---
+Version | `BuildingGadgets-2.7.4.jar` | `BuildingGadgets-2.8.0.jar`
+
+
+
+updated `mekanismores`
+
+Property | old value | new value
+---|---|---
+Version | `mekores-2.0.12.jar` | `mekores-2.0.13.jar`
+
+
+
+updated `xtones`
+
+Property | old value | new value
+---|---|---
+Author | `TehNut, _ForgeUser9211286` | `TehNut`
+
+
+
+### Removed Entries
+
+removed `ae2-stuff`
+
+Property | old value | new value
+---|---|---
+ID | `ae2-stuff` | 
+Version | `ae2stuff-0.7.0.4-mc1.12.2.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Required Dependencies | `bdlib`, `applied-energistics-2` | 
+Release Type | `Beta` | 
+Author | `bdew` | 
+
+
+
+removed `ae2wtlib`
+
+Property | old value | new value
+---|---|---
+ID | `ae2wtlib` | 
+Version | `AE2WTLib-1.12.2-1.0.34.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Required Dependencies | `applied-energistics-2`, `p455w0rds-library` | 
+Release Type | `Beta` | 
+Author | `TheRealp455w0rd` | 
+
+
+
+removed `applied-energistics-2`
+
+Property | old value | new value
+---|---|---
+ID | `applied-energistics-2` | 
+Version | `appliedenergistics2-rv6-stable-7.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Release Type | `Release` | 
+Author | `AlgorithmX2, FireBall1725, thatsIch, _ForgeUser16673090, _ForgeUser651564` | 
+
+
+
+removed `extracells2`
+
+Property | old value | new value
+---|---|---
+ID | `extracells2` | 
+Version | `ExtraCells-1.12.2-2.6.5.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Required Dependencies | `applied-energistics-2` | 
+Release Type | `Beta` | 
+Author | `Destroyer7128, _ForgeUser16181044, _ForgeUser9582869` | 
+
+
+
+removed `p455w0rds-library`
+
+Property | old value | new value
+---|---|---
+ID | `p455w0rds-library` | 
+Version | `p455w0rdslib-1.12.2-2.3.161.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Release Type | `Release` | 
+Author | `TheRealp455w0rd` | 
+
+
+
+removed `wireless-crafting-terminal`
+
+Property | old value | new value
+---|---|---
+ID | `wireless-crafting-terminal` | 
+Version | `WirelessCraftingTerminal-1.12.2-3.12.97.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Required Dependencies | `ae2wtlib`, `p455w0rds-library`, `applied-energistics-2` | 
+Release Type | `Release` | 
+Author | `TheRealp455w0rd` | 
+
+
+
+removed `yungs-better-caves`
+
+Property | old value | new value
+---|---|---
+ID | `yungs-better-caves` | 
+Version | `bettercaves-1.12.2-1.6.0.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Release Type | `Release` | 
+Author | `YUNGNICKYOUNG` | 
+
+
+
+
+
+
+
+# Center of the Multiverse - Tech Edition 0.3.1
+
+Property | old value | new value
+---|---|---
+Pack Version | `0.3` | `0.3.1`
+
+
+## Entries
+
+### Added Entries
+
+added `catwalks-4`
+
+Property | old value | new value
+---|---|---
+ID |  | `catwalks-4`
+Version |  | `catwalks-1.12.2-4.0.44.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `dmf444, mincrmatt12`
+
+
+
+added `flux-networks`
+
+Property | old value | new value
+---|---|---
+ID |  | `flux-networks`
+Version |  | `fluxnetworks-1.12.2-4.0.14-31.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `sonar_sonic`
+
+
+
+added `modern-lights`
+
+Property | old value | new value
+---|---|---
+ID |  | `modern-lights`
+Version |  | `ModernLights-1.0.3_1.12.jar`
+Provider |  | `CURSE`
+Side |  | `BOTH`
+Optional |  | `false`
+Release Type |  | `Release`
+Author |  | `AcnessDev`
+
+
+
+### Updated Entries
+
+updated `advanced-rocketry`
+
+Property | old value | new value
+---|---|---
+Version | `AdvancedRocketry-1.12.2-1.7.0-207-universal.jar` | `AdvancedRocketry-1.12.2-1.7.0-208-universal.jar`
+
+
+
+updated `building-gadgets`
+
+Property | old value | new value
+---|---|---
+Version | `BuildingGadgets-2.8.0.jar` | `BuildingGadgets-2.8.1.jar`
+
+
+
+updated `engineers-decor`
+
+Property | old value | new value
+---|---|---
+Version | `engineersdecor-1.12.2-1.0.19-b3.jar` | `engineersdecor-1.12.2-1.0.19-b4.jar`
+
+
+
+updated `ftblib`
+
+Property | old value | new value
+---|---|---
+Version | `FTBLib-5.4.4.5.jar` | `FTBLib-5.4.5.0.jar`
+
+
+
+updated `storage-drawers`
+
+Property | old value | new value
+---|---|---
+Version | `StorageDrawers-1.12.2-5.4.0.jar` | `StorageDrawers-1.12.2-5.4.1.jar`
+
+
+
+updated `xtones`
+
+Property | old value | new value
+---|---|---
+Author | `TehNut` | `TehNut, _ForgeUser9211286`
+
+
+
+### Removed Entries
+
+removed `torchmaster`
+
+Property | old value | new value
+---|---|---
+ID | `torchmaster` | 
+Version | `torchmaster_1.12.2-1.8.1.81.jar` | 
+Provider | `CURSE` | 
+Side | `BOTH` | 
+Optional | `false` | 
+Release Type | `Release` | 
+Author | `xalcon` | 
+
+
+
+
+
+

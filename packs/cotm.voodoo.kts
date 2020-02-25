@@ -11,7 +11,7 @@ import voodoo.data.curse.ProjectID
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.2.1"
+version = "0.3.1"
 forge = Forge.mc1_12_2.forge_14_23_5_2847
 icon = rootDir.resolve("icon.png")
 pack {
@@ -27,7 +27,7 @@ pack {
 
 pack {
     multimc {
-        skPackUrl = "https://centerofthemultiverse.net/launcher/cotm.json"
+        skPackUrl = "https://centerofthemultiverse.net/launcher/cotm-tech/cotm-tech.json"
     }
 }
 root(CurseProvider) {
@@ -176,7 +176,6 @@ root(CurseProvider) {
         +(Mod.extremeReactors)
         +(Mod.zerocore)
         +(Mod.toolBelt)
-        +(Mod.torchmaster)
         +(Mod.roboticparts)
         +(Mod.quickLeafDecay)
         +(Mod.constructsArmory)
@@ -227,7 +226,6 @@ root(CurseProvider) {
         +(Mod.randomPsideas)
         +(Mod.projectIntelligence)
         +(Mod.customMainMenu)
-        +(Mod.plustic)
         +(Mod.spiceOfLifeCarrotEdition)
         +(Mod.maxPotionIdExtender)
         +(Mod.calculator)
@@ -249,14 +247,11 @@ root(CurseProvider) {
         +(Mod.mekanismTools)
         +(Mod.mekanismores)
         +(Mod.futurepack)
-        +(Mod.appliedEnergistics2)
         +(Mod.cathedral)
         +(Mod.decocraft)
-        +(Mod.yungsBetterCaves)
         +(Mod.deepMobLearning)
         +(Mod.biomesOPlenty)
         +(Mod.apotheosis)
-        +(Mod.cyclic)
         +(Mod.engineersDecor)
         +(Mod.engineersTools)
         +(Mod.engineersDoors)
@@ -270,9 +265,6 @@ root(CurseProvider) {
         +(Mod.dimensionaldoors)
         +(Mod.immersiveCables)
         +(Mod.practicalLogistics2)
-        +(Mod.extracells2)
-        +(Mod.ae2Stuff)
-        +(Mod.wirelessCraftingTerminal)
         +(Mod.rfLux)
         +(Mod.redstoneArsenal)
         +(Mod.simplyJetpacks2)
@@ -288,6 +280,15 @@ root(CurseProvider) {
         +(Mod.draconicEvolution)
         +(Mod.emojicord)
         +(Mod.saveMyStronghold)
+        +(Mod.stimmedcowNomorerecipeconflict)
+        +(Mod.refinedStorage)
+        +(Mod.refinedStorageAddons)
+        +(Mod.rebornstorage)
+        +(Mod.fluxNetworks)
+        +(Mod.catwalks4)
+        +(Mod.modernLights)
+
+        
 //            val emojicord: _root_ide_package_.voodoo.data.curse.ProjectID
 //        inline get() = _root_ide_package_.voodoo.data.curse.ProjectID(349107)
 //    // https://www.curseforge.com/minecraft/mc-mods/emojicord

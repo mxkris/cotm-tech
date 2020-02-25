@@ -2,14 +2,14 @@
     id: cotm,
     mcVersion: 1.12.2,
     title: "Center of the Multiverse - Tech Edition",
-    version: 0.2.1,
+    version: 0.3.1,
     authors: [
         AnsuzThuriaz
     ],
     forge: 1.12.2-14.23.5.2847,
     packOptions: {
         multimcOptions: {
-            skPackUrl: "https://centerofthemultiverse.net/launcher/cotm.json"
+            skPackUrl: "https://centerofthemultiverse.net/launcher/cotm-tech/cotm-tech.json"
         },
         skCraftOptions: {
             userFiles: {
