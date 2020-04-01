@@ -11,7 +11,7 @@ import voodoo.data.curse.ProjectID
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.3.2"
+version = "0.3.3.test"
 forge = Forge.mc1_12_2.forge_14_23_5_2847
 icon = rootDir.resolve("icon.png")
 pack {
@@ -262,7 +262,6 @@ root(CurseProvider) {
         +(Mod.forestry)
         +(Mod.gendustry)
         +(Mod.binniesMods)
-        +(Mod.dimensionaldoors)
         +(Mod.immersiveCables)
         +(Mod.practicalLogistics2)
         +(Mod.rfLux)
@@ -273,7 +272,6 @@ root(CurseProvider) {
         +(Mod.xtones)
         +(Mod.literalAscension)
         +(Mod.platforms)
-        +(Mod.animania)
         +(Mod.minecraftComesAliveMca)
         +(Mod.engineersWorkshopReborn)
         +(Mod.bedrockores)

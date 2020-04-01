@@ -1,5 +1,10 @@
 {
     provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            gunpowderlib
+        ]
+    },
     projectID: 270183,
-    fileID: 2621277
+    fileID: 2903998
 }
