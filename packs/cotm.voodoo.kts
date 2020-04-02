@@ -11,7 +11,7 @@ import voodoo.data.curse.ProjectID
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.3.3.test"
+version = "0.3.3.test2"
 forge = Forge.mc1_12_2.forge_14_23_5_2847
 icon = rootDir.resolve("icon.png")
 pack {
@@ -288,6 +288,7 @@ root(CurseProvider) {
         +(Mod.mrcrayfishFurnitureMod)
         +(Mod.mrcrayfishsGunMod)
         +(Mod.mrcrayfishsVehicleMod)
+        +(Mod.refinedAvaritia)
         
 //            val emojicord: _root_ide_package_.voodoo.data.curse.ProjectID
 //        inline get() = _root_ide_package_.voodoo.data.curse.ProjectID(349107)

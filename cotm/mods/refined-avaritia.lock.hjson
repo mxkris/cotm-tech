@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            refined-storage
+        ]
+    },
+    projectID: 269583,
+    fileID: 2680357
+}
