@@ -2,10 +2,8 @@ import voodoo.util.unixPath
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    // kotlin("jvm") version "1.3.20" // automatically applied
-    // idea // automatically applied
-    id("voodoo") version "0.4.9-SNAPSHOT"
-    kotlin("jvm") version "1.3.61"
+    id("voodoo") version "0.5.0-SNAPSHOT"
+//    kotlin("jvm") version "1.3.70"
 }
 
 voodoo {
@@ -20,10 +18,7 @@ voodoo {
         pack().sklauncher()
     }
     addTask(name = "pack_mmc") {
-        pack().multimc()
-    }
-    addTask(name = "pack_mmc-static") {
-        pack().multimcStatic()
+        pack().multimcSk()
     }
     addTask(name = "pack_mmc-fat") {
         pack().multimcFat()
@@ -37,35 +32,16 @@ voodoo {
     addTask(name = "test_mmc") {
         test().multimc()
     }
-    addTask(name = "buildAndPackAll") {
-        build()
+    addTask(name = "pack_all") {
         pack().sklauncher()
         pack().server()
-        pack().multimc()
+        pack().multimcSk()
     }
 
-}
+    generateForge("Forge", "1.12.2", "1.12.1", "1.12")
+    generateCurseforgeMods("Mod", "1.12.2", "1.12.1", "1.12")
+    generateCurseforgeTexturepacks("TexturePack", "1.12.2", "1.12.1", "1.12")
 
-repositories {
-    maven(url = "http://maven.modmuss50.me/") {
-        name = "modmuss50"
-    }
-    maven(url = "https://dl.bintray.com/kotlin/kotlin-eap") {
-        name = "Kotlin EAP"
-    }
-    maven(url = "https://kotlin.bintray.com/kotlinx") {
-        name = "kotlinx"
-    }
-    mavenCentral()
-    jcenter()
-}
-
-dependencies {
-    implementation(group = "moe.nikky.voodoo", name = "voodoo", version = "0.4.9+")
-    implementation(group = "moe.nikky.voodoo", name = "dsl", version = "0.4.9+")
-    kotlinScriptDef(group = "moe.nikky.voodoo", name = "dsl", version = "0.4.9+")
-    implementation(kotlin("stdlib-jdk8"))
-    implementation(kotlin("script-runtime"))
 }
 
 tasks.create("syncConfigs") {
@@ -103,11 +79,11 @@ tasks.create("listConfigs") {
         logger.lifecycle("config paths: \n $result")
     }
 }
-val compileKotlin: KotlinCompile by tasks
-compileKotlin.kotlinOptions {
-    jvmTarget = "1.8"
-}
-val compileTestKotlin: KotlinCompile by tasks
-compileTestKotlin.kotlinOptions {
-    jvmTarget = "1.8"
-}
+//val compileKotlin: KotlinCompile by tasks
+//compileKotlin.kotlinOptions {
+//    jvmTarget = "1.8"
+//}
+//val compileTestKotlin: KotlinCompile by tasks
+//compileTestKotlin.kotlinOptions {
+//    jvmTarget = "1.8"
+//}

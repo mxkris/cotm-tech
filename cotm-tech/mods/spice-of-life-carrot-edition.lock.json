@@ -1,0 +1,12 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "applecore"
+            ]
+        }
+    },
+    "projectID": 277616,
+    "fileID": 2731062
+}

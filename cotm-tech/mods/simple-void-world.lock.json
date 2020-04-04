@@ -1,0 +1,12 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "reborncore"
+            ]
+        }
+    },
+    "projectID": 254466,
+    "fileID": 2498115
+}

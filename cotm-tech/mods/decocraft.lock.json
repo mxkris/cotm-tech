@@ -1,0 +1,12 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "ptrlib"
+            ]
+        }
+    },
+    "projectID": 79616,
+    "fileID": 2777813
+}

@@ -1,0 +1,12 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "shetiphiancore"
+            ]
+        }
+    },
+    "projectID": 244786,
+    "fileID": 2616061
+}

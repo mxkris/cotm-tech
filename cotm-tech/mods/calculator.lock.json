@@ -1,0 +1,12 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "sonar-core"
+            ]
+        }
+    },
+    "projectID": 225104,
+    "fileID": 2847174
+}

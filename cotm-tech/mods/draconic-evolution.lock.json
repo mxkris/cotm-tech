@@ -1,0 +1,14 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "codechicken-lib-1-8",
+                "redstone-flux",
+                "brandons-core"
+            ]
+        }
+    },
+    "projectID": 223565,
+    "fileID": 2867186
+}

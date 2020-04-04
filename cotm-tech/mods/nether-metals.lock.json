@@ -1,0 +1,13 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "mmdlib",
+                "mmd-orespawn"
+            ]
+        }
+    },
+    "projectID": 243277,
+    "fileID": 2712969
+}

@@ -1,0 +1,13 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "bdlib",
+                "forestry"
+            ]
+        }
+    },
+    "projectID": 70492,
+    "fileID": 2516215
+}

@@ -1,0 +1,12 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "embers-rekindled"
+            ]
+        }
+    },
+    "projectID": 281528,
+    "fileID": 2697925
+}
