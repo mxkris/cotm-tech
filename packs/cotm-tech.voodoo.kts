@@ -1,7 +1,7 @@
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.3.3.test3"
+version = "0.3.3.rc"
 modloader {
     forge(Forge.mc1_12_2.forge_14_23_5_2847)
 }
@@ -284,16 +284,7 @@ root<Curse> {
         +(Mod.mrcrayfishsGunMod)
         +(Mod.mrcrayfishsVehicleMod)
         +(Mod.refinedAvaritia)
-        
-//            val emojicord: _root_ide_package_.voodoo.data.curse.ProjectID
-//        inline get() = _root_ide_package_.voodoo.data.curse.ProjectID(349107)
-//    // https://www.curseforge.com/minecraft/mc-mods/emojicord
-//
-//    val saveMyStronghold: _root_ide_package_.voodoo.data.curse.ProjectID
-//        inline get() = _root_ide_package_.voodoo.data.curse.ProjectID(355248)
-//    // https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold
 
-        
         withTypeClass(Direct::class).list {
             +"Nutrition" {
                 url = "https://github.com/WesCook/Nutrition/releases/download/v4.4.0/Nutrition-1.12.2-4.4.0.jar"
@@ -410,21 +401,21 @@ root<Curse> {
                 }
             }.list {
 
-//                +(Mod.betterFoliage) configure {
-//                    description = "Improves the flora in the world. Very heavy, but very pretty. (Sane defaults set.)"
-//                }
+                +(Mod.betterFoliage) {
+                    description = "Improves the flora in the world. Very heavy, but very pretty. (Sane defaults set.)"
+                }
 
-//                +(Mod.justEnoughHarvestcraft) configure {
-//                    description = "JEI Integration for Pam's HarvestCraft."
-//                }
+                +(Mod.justEnoughHarvestcraft) {
+                    description = "JEI Integration for Pam's HarvestCraft."
+                }
 
-//                +(Mod.justEnoughResourcesJer) configure {
-//                    description = "JEI Integration that gives drop-rates for mobs, dungeon loot, etc."
-//                }
+                +(Mod.justEnoughResourcesJer) {
+                    description = "JEI Integration that gives drop-rates for mobs, dungeon loot, etc."
+                }
 
-//                +(Mod.xaerosMinimap) configure {
-//                    description = "Alternative to Journeymap."
-//                }
+                +(Mod.xaerosMinimap) {
+                    description = "Alternative to Journeymap."
+                }
 
                 +(Mod.minemenu) {
                     description =
@@ -443,19 +434,19 @@ root<Curse> {
                     description = "Toggle-able item/tool/armor durability HUD. Duplicates with RPG-HUD."
                 }
 
-//                +(Mod.fancyBlockParticles) configure {
-//                    description =
-//                            "Caution: Resource heavy. Adds some flair to particle effects and animations. Highly configurable, costs fps."
-//                }
+                +(Mod.fancyBlockParticles) {
+                    description =
+                            "Caution: Resource heavy. Adds some flair to particle effects and animations. Highly configurable, costs fps."
+                }
 
-//                +(Mod.dynamicSurroundings) configure {
-//                    description =
-//                            "Caution: Resource heavy. Lots of configurable features that add immersive sound/visual effects. Includes light-level overlay."
-//                }
+                +(Mod.dynamicSurroundings) {
+                    description =
+                            "Caution: Resource heavy. Lots of configurable features that add immersive sound/visual effects. Includes light-level overlay."
+                }
 
-//                +(Mod.chunkAnimator) configure {
-//                    description = "Configurable chunk pop-in animator."
-//                }
+                +(Mod.chunkAnimator) {
+                    description = "Configurable chunk pop-in animator."
+                }
 
                 +(Mod.fasterLadderClimbing) {
                     description = "Helps you control ladder climb speed and allows you to go a bit faster."
