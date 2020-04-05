@@ -1,0 +1,2762 @@
+{
+    "actually-additions": {
+        "ID": "actually-additions",
+        "Version": "ActuallyAdditions-1.12.2-r151-2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Ellpeck"
+    },
+    "advanced-rocketry": {
+        "ID": "advanced-rocketry",
+        "Version": "AdvancedRocketry-1.12.2-1.7.0-209-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "libvulpes",
+        "Release Type": "Beta",
+        "CF Authors": "zmaster587"
+    },
+    "ai-improvements": {
+        "ID": "ai-improvements",
+        "Version": "AIImprovements-1.12.1-0.0.1b1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Alpha",
+        "CF Authors": "DarkGuardsman"
+    },
+    "akashic-tome": {
+        "ID": "akashic-tome",
+        "Version": "AkashicTome-1.2-12.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "autoreglib",
+        "Release Type": "Release",
+        "CF Authors": "Vazkii"
+    },
+    "antighost": {
+        "ID": "antighost",
+        "Version": "antighost-1.12-forge14.21.1.2387-1.1.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "thorgeig"
+    },
+    "apotheosis": {
+        "ID": "apotheosis",
+        "Version": "Apotheosis-1.12.2-1.12.5.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "placebo",
+        "Release Type": "Release",
+        "CF Authors": "Shadows_of_Fire"
+    },
+    "applecore": {
+        "ID": "applecore",
+        "Version": "AppleCore-mc1.12.2-3.2.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "squeek502"
+    },
+    "appleskin": {
+        "ID": "appleskin",
+        "Version": "AppleSkin-mc1.12-1.0.9.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "squeek502"
+    },
+    "architect": {
+        "ID": "architect",
+        "Version": "Architect-MC1.12-1.2.0.6.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Sangar_"
+    },
+    "architecturecraft-tridev": {
+        "ID": "architecturecraft-tridev",
+        "Version": "architecturecraft-1.12-3.98.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "darkevilmac"
+    },
+    "armory-expansion": {
+        "ID": "armory-expansion",
+        "Version": "armoryexpansion-1.4.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mantle, constructs-armory, tinkers-construct",
+        "Release Type": "Release",
+        "CF Authors": "AshuraNoYami"
+    },
+    "aroma1997core": {
+        "ID": "aroma1997core",
+        "Version": "Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "Aroma1997"
+    },
+    "aroma1997s-dimensional-world": {
+        "ID": "aroma1997s-dimensional-world",
+        "Version": "Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b96.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "aroma1997core",
+        "Release Type": "Alpha",
+        "CF Authors": "Aroma1997"
+    },
+    "autoreglib": {
+        "ID": "autoreglib",
+        "Version": "AutoRegLib-1.3-32.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Vazkii"
+    },
+    "avaritia-1-10": {
+        "ID": "avaritia-1-10",
+        "Version": "Avaritia-1.12.2-3.3.0.33-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "codechicken-lib-1-8",
+        "Release Type": "Release",
+        "CF Authors": "brandon3055, covers1624, Morpheus11011, TheRealp455w0rd"
+    },
+    "bad-wither-no-cookie-reloaded": {
+        "ID": "bad-wither-no-cookie-reloaded",
+        "Version": "badwithernocookiereloaded-1.12.2-3.3.16.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Kreezxil"
+    },
+    "baubles": {
+        "ID": "baubles",
+        "Version": "Baubles-1.12-1.5.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Azanor13"
+    },
+    "bdlib": {
+        "ID": "bdlib",
+        "Version": "bdlib-1.14.3.12-mc1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "bdew"
+    },
+    "bed-patch": {
+        "ID": "bed-patch",
+        "Version": "bedpatch-2.2-1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Mordenkainen3141"
+    },
+    "bedrockores": {
+        "ID": "bedrockores",
+        "Version": "Bedrock Ores-MC1.12-1.2.7.42.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Sangar_"
+    },
+    "better-advancements": {
+        "ID": "better-advancements",
+        "Version": "BetterAdvancements-1.12.2-0.1.0.77.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "way2muchnoise"
+    },
+    "better-builders-wands": {
+        "ID": "better-builders-wands",
+        "Version": "BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "Portablejim"
+    },
+    "better-foliage": {
+        "ID": "better-foliage",
+        "Version": "BetterFoliage-MC1.12-2.3.1.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Improves the flora in the world. Very heavy, but very pretty. (Sane defaults set.)",
+        "Optional": "true",
+        "Required Dependencies": "shadowfacts-forgelin",
+        "Release Type": "Release",
+        "CF Authors": "octarine_noise"
+    },
+    "better-placement": {
+        "ID": "better-placement",
+        "Version": "BetterPlacement-1.0.0-1.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "tterrag1098"
+    },
+    "betterfps": {
+        "ID": "betterfps",
+        "Version": "BetterFps-1.4.8.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "Guichaguri"
+    },
+    "bibliocraft": {
+        "ID": "bibliocraft",
+        "Version": "BiblioCraft[v2.4.5][MC1.12.2].jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Nuchaz"
+    },
+    "binnies-mods": {
+        "ID": "binnies-mods",
+        "Version": "binnie-mods-1.12.2-2.5.1.203.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "forestry",
+        "Release Type": "Alpha",
+        "CF Authors": "mezz, _ForgeUser9116757"
+    },
+    "biomes-o-plenty": {
+        "ID": "biomes-o-plenty",
+        "Version": "BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "Forstride, TheAdubbz"
+    },
+    "blockcraftery": {
+        "ID": "blockcraftery",
+        "Version": "blockcraftery-1.12.2-1.3.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mysticallib",
+        "Release Type": "Release",
+        "CF Authors": "EpicSquid319"
+    },
+    "bonsai-trees": {
+        "ID": "bonsai-trees",
+        "Version": "bonsaitrees-1.1.4-b170.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "davenonymous"
+    },
+    "bookshelf": {
+        "ID": "bookshelf",
+        "Version": "Bookshelf-1.12.2-2.3.590.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "DarkhaxDev"
+    },
+    "brandons-core": {
+        "ID": "brandons-core",
+        "Version": "BrandonsCore-1.12.2-2.4.18.210-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "codechicken-lib-1-8, redstone-flux",
+        "Release Type": "Release",
+        "CF Authors": "brandon3055"
+    },
+    "btfu-continuous-rsync-incremental-backup": {
+        "ID": "btfu-continuous-rsync-incremental-backup",
+        "Version": "BTFU-1.12.2-2.5.jar",
+        "Provider": "CURSE",
+        "Side": "SERVER",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "capitalthree"
+    },
+    "building-gadgets": {
+        "ID": "building-gadgets",
+        "Version": "BuildingGadgets-2.8.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Direwolf20, Error_MiKeY"
+    },
+    "calculator": {
+        "ID": "calculator",
+        "Version": "calculator-1.12.2-5.0.12-15.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "sonar-core",
+        "Release Type": "Release",
+        "CF Authors": "sonar_sonic"
+    },
+    "caliper": {
+        "ID": "caliper",
+        "Version": "Caliper-1.12.2-1.1.46.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "bookshelf",
+        "Release Type": "Alpha",
+        "CF Authors": "DarkhaxDev"
+    },
+    "cathedral": {
+        "ID": "cathedral",
+        "Version": "Cathedral-1.12.2-1.9.9.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "chisel, ctm",
+        "Release Type": "Release",
+        "CF Authors": "ferreusveritas"
+    },
+    "catwalks-4": {
+        "ID": "catwalks-4",
+        "Version": "catwalks-1.12.2-4.0.44.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "dmf444, mincrmatt12"
+    },
+    "chameleon": {
+        "ID": "chameleon",
+        "Version": "Chameleon-1.12-4.1.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Texelsaur"
+    },
+    "charset-audio": {
+        "ID": "charset-audio",
+        "Version": "Charset-Audio-0.5.6.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "charset-lib",
+        "Release Type": "Beta",
+        "CF Authors": "asiekierka"
+    },
+    "charset-block-carrying": {
+        "ID": "charset-block-carrying",
+        "Version": "Charset-TweakCarry-0.5.6.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "charset-lib",
+        "Release Type": "Release",
+        "CF Authors": "asiekierka"
+    },
+    "charset-crafting": {
+        "ID": "charset-crafting",
+        "Version": "Charset-Crafting-0.5.6.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "charset-lib",
+        "Release Type": "Beta",
+        "CF Authors": "asiekierka"
+    },
+    "charset-immersion": {
+        "ID": "charset-immersion",
+        "Version": "Charset-Immersion-0.5.6.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "charset-lib",
+        "Release Type": "Beta",
+        "CF Authors": "asiekierka"
+    },
+    "charset-lib": {
+        "ID": "charset-lib",
+        "Version": "Charset-Lib-0.5.6.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "asiekierka"
+    },
+    "charset-storage-locks": {
+        "ID": "charset-storage-locks",
+        "Version": "Charset-StorageLocks-0.5.6.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "charset-lib",
+        "Release Type": "Release",
+        "CF Authors": "asiekierka"
+    },
+    "charset-tablet": {
+        "ID": "charset-tablet",
+        "Version": "Charset-Tablet-0.5.6.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "charset-lib",
+        "Release Type": "Beta",
+        "CF Authors": "asiekierka"
+    },
+    "charset-tools": {
+        "ID": "charset-tools",
+        "Version": "Charset-ToolsEngineering-0.5.6.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "asiekierka"
+    },
+    "charset-tweaks": {
+        "ID": "charset-tweaks",
+        "Version": "Charset-Tweaks-0.5.6.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "charset-lib",
+        "Release Type": "Release",
+        "CF Authors": "asiekierka"
+    },
+    "charsetpatches": {
+        "ID": "charsetpatches",
+        "Version": "CharsetPatches-0.1.8.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "charset-lib",
+        "Release Type": "Release",
+        "CF Authors": "asiekierka"
+    },
+    "chest-transporter": {
+        "ID": "chest-transporter",
+        "Version": "ChestTransporter-1.12.2-2.8.8.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "cubex2"
+    },
+    "chisel": {
+        "ID": "chisel",
+        "Version": "Chisel-MC1.12.2-1.0.2.45.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "ctm",
+        "Release Type": "Release",
+        "CF Authors": "Drullkus, minecreatr, tterrag1098"
+    },
+    "chisels-bits": {
+        "ID": "chisels-bits",
+        "Version": "chiselsandbits-14.33.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "AlgorithmX2"
+    },
+    "chococraft-3": {
+        "ID": "chococraft-3",
+        "Version": "chococraft_1.12.2-0.9.8.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "TheSlayer5934"
+    },
+    "chunk-animator": {
+        "ID": "chunk-animator",
+        "Version": "ChunkAnimator-MC1.12-1.2.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Configurable chunk pop-in animator.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "Lumien231"
+    },
+    "clay-soldiers-mod": {
+        "ID": "clay-soldiers-mod",
+        "Version": "ClaySoldiersMod-1.12.2-3.0.0-beta.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "sanlib",
+        "Release Type": "Beta",
+        "CF Authors": "CliffracerX, SanAndreasP, SilverChiren"
+    },
+    "cleanview": {
+        "ID": "cleanview",
+        "Version": "CleanView-1.12.2-v1c.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "LainMI"
+    },
+    "client-tweaks": {
+        "ID": "client-tweaks",
+        "Version": "ClientTweaks_1.12.2-3.1.11.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Various client related fixes and tweaks, all in a handy menu.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "BlayTheNinth"
+    },
+    "clumps": {
+        "ID": "clumps",
+        "Version": "Clumps-3.1.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Jaredlll08"
+    },
+    "codechicken-lib-1-8": {
+        "ID": "codechicken-lib-1-8",
+        "Version": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Chicken_Bones, covers1624"
+    },
+    "cofh-core": {
+        "ID": "cofh-core",
+        "Version": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "KingLemmingCoFH, TeamCoFH"
+    },
+    "cofh-world": {
+        "ID": "cofh-world",
+        "Version": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "KingLemmingCoFH, skyboy026, TeamCoFH"
+    },
+    "colorchat": {
+        "ID": "colorchat",
+        "Version": "colorchat-1.12.1-2.0.43-universal.jar",
+        "Provider": "CURSE",
+        "Side": "SERVER",
+        "Optional": "false",
+        "Required Dependencies": "k4lib",
+        "Release Type": "Release",
+        "CF Authors": "K4Unl"
+    },
+    "colytra": {
+        "ID": "colytra",
+        "Version": "colytra-1.12.2-1.2.0.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TheIllusiveC4"
+    },
+    "comforts": {
+        "ID": "comforts",
+        "Version": "comforts-1.12.2-1.4.1.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TheIllusiveC4"
+    },
+    "compactdrawers": {
+        "ID": "compactdrawers",
+        "Version": "CompactDrawers-1.12.2-1.0.5.125.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "samtrion"
+    },
+    "compact-machines": {
+        "ID": "compact-machines",
+        "Version": "compactmachines3-1.12.2-3.0.18-b278.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "davenonymous"
+    },
+    "ctm": {
+        "ID": "ctm",
+        "Version": "CTM-MC1.12.2-1.0.2.31.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "tterrag1098"
+    },
+    "constructs-armory": {
+        "ID": "constructs-armory",
+        "Version": "conarm-1.12.2-1.2.5.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mantle, tinkers-construct",
+        "Release Type": "Release",
+        "CF Authors": "TheIllusiveC4"
+    },
+    "controlling": {
+        "ID": "controlling",
+        "Version": "Controlling-3.0.8.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Jaredlll08"
+    },
+    "cooking-for-blockheads": {
+        "ID": "cooking-for-blockheads",
+        "Version": "CookingForBlockheads_1.12.2-6.5.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "BlayTheNinth"
+    },
+    "corpse-complex": {
+        "ID": "corpse-complex",
+        "Version": "corpsecomplex-1.12.2-1.0.10.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TheIllusiveC4"
+    },
+    "cosmetic-armor-reworked": {
+        "ID": "cosmetic-armor-reworked",
+        "Version": "CosmeticArmorReworked-1.12.2-v4b.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "LainMI"
+    },
+    "crafting-tweaks": {
+        "ID": "crafting-tweaks",
+        "Version": "CraftingTweaks_1.12.2-8.1.9.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "BlayTheNinth"
+    },
+    "crafttweaker": {
+        "ID": "crafttweaker",
+        "Version": "CraftTweaker2-1.12-4.1.20.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Jaredlll08"
+    },
+    "culinary-construct": {
+        "ID": "culinary-construct",
+        "Version": "culinaryconstruct-1.3.3.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TheIllusiveC4"
+    },
+    "custom-fov": {
+        "ID": "custom-fov",
+        "Version": "customfov-1.12.2-1.0.1.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Removes dynamic FOV shifting due to ingame effects.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "TheIllusiveC4"
+    },
+    "custom-main-menu": {
+        "ID": "custom-main-menu",
+        "Version": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Lumien231"
+    },
+    "cyclops-core": {
+        "ID": "cyclops-core",
+        "Version": "CyclopsCore-1.12.2-1.6.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "kroeser"
+    },
+    "decocraft": {
+        "ID": "decocraft",
+        "Version": "Decocraft-2.6.3_1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "ptrlib",
+        "Release Type": "Release",
+        "CF Authors": "RazzleberryFox"
+    },
+    "deep-mob-learning": {
+        "ID": "deep-mob-learning",
+        "Version": "deepmoblearning-1.12.2-2.5.2-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "patchouli",
+        "Release Type": "Release",
+        "CF Authors": "IterationFunk"
+    },
+    "default-options": {
+        "ID": "default-options",
+        "Version": "DefaultOptions_1.12.2-9.2.8.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "BlayTheNinth"
+    },
+    "dense-metals": {
+        "ID": "dense-metals",
+        "Version": "DenseMetals-1.12.2-2.0.0.30.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "dshadowwolf, jriwanek, knoxhack"
+    },
+    "dcintegration": {
+        "ID": "dcintegration",
+        "Version": "dcintegration-1.1.14-1.12.jar",
+        "Provider": "CURSE",
+        "Side": "SERVER",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "ErdbeerbaerLP"
+    },
+    "doggy-talents": {
+        "ID": "doggy-talents",
+        "Version": "DoggyTalents-1.12.2-1.15.1.4-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "percivalalb"
+    },
+    "draconic-evolution": {
+        "ID": "draconic-evolution",
+        "Version": "Draconic-Evolution-1.12.2-2.3.25.351-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "codechicken-lib-1-8, redstone-flux, brandons-core",
+        "Release Type": "Release",
+        "CF Authors": "brandon3055"
+    },
+    "dragon-drops-elytra": {
+        "ID": "dragon-drops-elytra",
+        "Version": "dde_1.12-1.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Serilum"
+    },
+    "durability-show": {
+        "ID": "durability-show",
+        "Version": "Durability Show-1.12-5.0.0.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Toggle-able item/tool/armor durability HUD. Duplicates with RPG-HUD.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "61352151511"
+    },
+    "engination": {
+        "ID": "engination",
+        "Version": "Engination-MC1.12.2_ver1.07.03.jar",
+        "Provider": "JENKINS",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Job": "elytra/Engination/master",
+        "Build": "11"
+    },
+    "infra-redstone": {
+        "ID": "infra-redstone",
+        "Version": "InfraRedstone-1.12.2-1.2.1.114.jar",
+        "Provider": "JENKINS",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Job": "elytra/InfraRedstone/1.12.2",
+        "Build": "21"
+    },
+    "thermionics": {
+        "ID": "thermionics",
+        "Version": "Thermionics-MC1.12.2_ver1.1.4.jar",
+        "Provider": "JENKINS",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Job": "elytra/Thermionics/master",
+        "Build": "13"
+    },
+    "thermionics-world": {
+        "ID": "thermionics-world",
+        "Version": "ThermionicsWorld-MC1.12.2_ver1.0.2.jar",
+        "Provider": "JENKINS",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Job": "elytra/ThermionicsWorld/master",
+        "Build": "32"
+    },
+    "embers-rekindled": {
+        "ID": "embers-rekindled",
+        "Version": "EmbersRekindled-1.13-hotfix2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "BordListian"
+    },
+    "emojicord": {
+        "ID": "emojicord",
+        "Version": "Emojicord-1.12.2-1.0.2.15-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Kamesuta"
+    },
+    "end-metals": {
+        "ID": "end-metals",
+        "Version": "EndMetals-1.12-1.2.0-rc2.67.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mmd-orespawn, mmdlib",
+        "Release Type": "Release",
+        "CF Authors": "dshadowwolf, jriwanek, knoxhack"
+    },
+    "ender-io": {
+        "ID": "ender-io",
+        "Version": "EnderIO-1.12.2-5.1.55.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "endercore",
+        "Release Type": "Release",
+        "CF Authors": "CrazyPants_MC, EpicSquid319, HenryLoenwind, tterrag1098, _ForgeUser20459859"
+    },
+    "ender-storage-1-8": {
+        "ID": "ender-storage-1-8",
+        "Version": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "codechicken-lib-1-8",
+        "Release Type": "Release",
+        "CF Authors": "Chicken_Bones, covers1624"
+    },
+    "endercore": {
+        "ID": "endercore",
+        "Version": "EnderCore-1.12.2-0.5.74.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Alpha",
+        "CF Authors": "CrazyPants_MC, HenryLoenwind, tterrag1098"
+    },
+    "engineers-decor": {
+        "ID": "engineers-decor",
+        "Version": "engineersdecor-1.12.2-1.0.20-b4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "wilechaote"
+    },
+    "engineers-doors": {
+        "ID": "engineers-doors",
+        "Version": "engineers_doors-1.12.2-0.8.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "immersive-engineering",
+        "Release Type": "Release",
+        "CF Authors": "nihiltres"
+    },
+    "engineers-tools": {
+        "ID": "engineers-tools",
+        "Version": "engineerstools-1.12.2-1.0.5.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "wilechaote"
+    },
+    "engineers-workshop-reborn": {
+        "ID": "engineers-workshop-reborn",
+        "Version": "EngineersWorkshopReborn-1.12.2-1.0.9.40.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "modmuss50"
+    },
+    "environmental-tech": {
+        "ID": "environmental-tech",
+        "Version": "environmentaltech-1.12.2-2.0.20.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "valkyrielib",
+        "Release Type": "Beta",
+        "CF Authors": "ValkyrieofNight"
+    },
+    "exchangers": {
+        "ID": "exchangers",
+        "Version": "Exchangers-1.12.2-2.9.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "gunpowderlib",
+        "Release Type": "Release",
+        "CF Authors": "Jackyy, Turkey2349"
+    },
+    "extra-alchemy": {
+        "ID": "extra-alchemy",
+        "Version": "extraalchemy-0.5.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "minerva-library",
+        "Release Type": "Release",
+        "CF Authors": "zabi94"
+    },
+    "extra-bit-manipulation": {
+        "ID": "extra-bit-manipulation",
+        "Version": "ExtraBitManipulation-1.12.2-3.4.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "chisels-bits",
+        "Release Type": "Release",
+        "CF Authors": "Phylogeny"
+    },
+    "extra-utilities": {
+        "ID": "extra-utilities",
+        "Version": "extrautils2-1.12-1.9.9.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "RWTema"
+    },
+    "extreme-reactors": {
+        "ID": "extreme-reactors",
+        "Version": "ExtremeReactors-1.12.2-0.4.5.67.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "zerocore",
+        "Release Type": "Beta",
+        "CF Authors": "ZeroNoRyouki"
+    },
+    "fairy-lights": {
+        "ID": "fairy-lights",
+        "Version": "fairylights-2.1.10-1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "pau101"
+    },
+    "fancy-block-particles": {
+        "ID": "fancy-block-particles",
+        "Version": "FancyBlockParticles-1.12.x-2.4.1.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Caution: Resource heavy. Adds some flair to particle effects and animations. Highly configurable, costs fps.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "TominoCZ"
+    },
+    "farming-for-blockheads": {
+        "ID": "farming-for-blockheads",
+        "Version": "FarmingForBlockheads_1.12.2-3.1.28.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "BlayTheNinth"
+    },
+    "faster-ladder-climbing": {
+        "ID": "faster-ladder-climbing",
+        "Version": "FasterLadderClimbing-1.12-0.1-146.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Helps you control ladder climb speed and allows you to go a bit faster.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "maddachshund"
+    },
+    "fastfurnace": {
+        "ID": "fastfurnace",
+        "Version": "FastFurnace-1.12.2-1.3.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Shadows_of_Fire"
+    },
+    "fastworkbench": {
+        "ID": "fastworkbench",
+        "Version": "FastWorkbench-1.12.2-1.7.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "placebo",
+        "Release Type": "Release",
+        "CF Authors": "Shadows_of_Fire"
+    },
+    "flopper": {
+        "ID": "flopper",
+        "Version": "Flopper-1.12.2-1.0.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "cyclops-core",
+        "Release Type": "Release",
+        "CF Authors": "kroeser"
+    },
+    "flux-networks": {
+        "ID": "flux-networks",
+        "Version": "fluxnetworks-1.12.2-4.0.14-31.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "sonar_sonic"
+    },
+    "foamfix-optimization-mod": {
+        "ID": "foamfix-optimization-mod",
+        "Version": "foamfix-0.10.10-1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "asiekierka, kamefrede123"
+    },
+    "forestry": {
+        "ID": "forestry",
+        "Version": "forestry_1.12.2-5.8.2.422.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "Covert_Jaguar, mezz, MysteriousAges, _ForgeUser7678633"
+    },
+    "ftb-backups": {
+        "ID": "ftb-backups",
+        "Version": "FTBBackups-1.1.0.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "FTB, LatvianModder"
+    },
+    "ftblib": {
+        "ID": "ftblib",
+        "Version": "FTBLib-5.4.7.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "FTB, LatvianModder"
+    },
+    "ftb-utilities": {
+        "ID": "ftb-utilities",
+        "Version": "FTBUtilities-5.4.0.124.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "ftblib, ftb-backups",
+        "Release Type": "Release",
+        "CF Authors": "FTB, LatvianModder"
+    },
+    "fullscreen-windowed-borderless-for-minecraft": {
+        "ID": "fullscreen-windowed-borderless-for-minecraft",
+        "Version": "FullscreenWindowed-1.12-1.6.0.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "hancin"
+    },
+    "future-mc": {
+        "ID": "future-mc",
+        "Version": "future-mc-0.1.13.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "thedarkcolour"
+    },
+    "futurepack": {
+        "ID": "futurepack",
+        "Version": "Futurepack-1.12.2-26.4.89.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Mcenderdragon"
+    },
+    "gendustry": {
+        "ID": "gendustry",
+        "Version": "gendustry-1.6.5.8-mc1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "bdlib, forestry",
+        "Release Type": "Beta",
+        "CF Authors": "bdew"
+    },
+    "grappling-hook-mod": {
+        "ID": "grappling-hook-mod",
+        "Version": "grapplemod-v11.1-1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "yyonne"
+    },
+    "gunpowderlib": {
+        "ID": "gunpowderlib",
+        "Version": "GunpowderLib-1.12.2-1.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Jackyy"
+    },
+    "hunting-dimension": {
+        "ID": "hunting-dimension",
+        "Version": "HuntingDimension-1.12.2-1.0.43.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "bookshelf",
+        "Release Type": "Alpha",
+        "CF Authors": "DarkhaxDev"
+    },
+    "immersive-cables": {
+        "ID": "immersive-cables",
+        "Version": "ImmersiveCables-1.12.2-1.3.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "immersive-engineering",
+        "Release Type": "Release",
+        "CF Authors": "SanAndreasP"
+    },
+    "immersive-engineering": {
+        "ID": "immersive-engineering",
+        "Version": "ImmersiveEngineering-0.12-92.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "BluSunrize, malte0811"
+    },
+    "industrial-foregoing": {
+        "ID": "industrial-foregoing",
+        "Version": "industrialforegoing-1.12.2-1.12.13-237.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "tesla-core-lib",
+        "Release Type": "Release",
+        "CF Authors": "Buuz135"
+    },
+    "initial-inventory": {
+        "ID": "initial-inventory",
+        "Version": "InitialInventory-3.0.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "crafttweaker, mtlib",
+        "Release Type": "Release",
+        "CF Authors": "Jaredlll08"
+    },
+    "inventory-tweaks": {
+        "ID": "inventory-tweaks",
+        "Version": "InventoryTweaks-1.64+dev.150.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Alpha",
+        "CF Authors": "JimeoWan, Kobata"
+    },
+    "iron-backpacks": {
+        "ID": "iron-backpacks",
+        "Version": "IronBackpacks-1.12.2-3.0.8-12.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "gr8pefish, TehNut"
+    },
+    "itemzoom": {
+        "ID": "itemzoom",
+        "Version": "itemzoom_1.12.2-1.11.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Enable this if you like to get a closer look at item textures.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "mezz"
+    },
+    "ivtoolkit": {
+        "ID": "ivtoolkit",
+        "Version": "IvToolkit-1.3.3-1.12.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Ivorforce"
+    },
+    "jaopca": {
+        "ID": "jaopca",
+        "Version": "JAOPCA-1.12.2-2.2.8.103.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "wrapup",
+        "Release Type": "Release",
+        "CF Authors": "TheLMiffy1111"
+    },
+    "jei-integration": {
+        "ID": "jei-integration",
+        "Version": "jeiintegration_1.12.2-1.5.1.36.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Required Dependencies": "jei",
+        "Release Type": "Release",
+        "CF Authors": "SnowShock35"
+    },
+    "journeymap": {
+        "ID": "journeymap",
+        "Version": "journeymap-1.12.2-5.7.1.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Mod-compatible mini-map.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "Mysticdrew, techbrew"
+    },
+    "just-enough-harvestcraft": {
+        "ID": "just-enough-harvestcraft",
+        "Version": "just-enough-harvestcraft-1.12.2-1.7.0.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Required Dependencies": "jei, pams-harvestcraft",
+        "Release Type": "Release",
+        "CF Authors": "mrAppleXZ"
+    },
+    "jei": {
+        "ID": "jei",
+        "Version": "jei_1.12.2-4.15.0.293.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "mezz"
+    },
+    "just-enough-resources-jer": {
+        "ID": "just-enough-resources-jer",
+        "Version": "JustEnoughResources-1.12.2-0.9.2.60.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Required Dependencies": "jei",
+        "Release Type": "Release",
+        "CF Authors": "way2muchnoise"
+    },
+    "k4lib": {
+        "ID": "k4lib",
+        "Version": "k4lib-1.12.1-2.1.81-universal.jar",
+        "Provider": "CURSE",
+        "Side": "SERVER",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "K4Unl"
+    },
+    "kleeslabs": {
+        "ID": "kleeslabs",
+        "Version": "KleeSlabs_1.12.2-5.4.12.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "BlayTheNinth"
+    },
+    "laggoggles": {
+        "ID": "laggoggles",
+        "Version": "LagGoggles-FAT-1.12.2-4.11-92.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Description": "***Admin/diagnostic tool. Leave off unless asked to help test performance issues.",
+        "Optional": "true",
+        "Release Type": "Beta",
+        "CF Authors": "Terminator_NL"
+    },
+    "librarianlib": {
+        "ID": "librarianlib",
+        "Version": "librarianlib-1.12.2-4.20-release.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "shadowfacts-forgelin",
+        "Release Type": "Release",
+        "CF Authors": "Bluexino, Demoniaque1, Thecodewarrior1, wiresegal"
+    },
+    "libraryex": {
+        "ID": "libraryex",
+        "Version": "LibraryEx-1.12.2-1.1.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "LogicTechCorp"
+    },
+    "libvulpes": {
+        "ID": "libvulpes",
+        "Version": "LibVulpes-1.12.2-0.4.2-74-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "zmaster587"
+    },
+    "light-level-overlay-reloaded": {
+        "ID": "light-level-overlay-reloaded",
+        "Version": "LLOverlayReloaded-1.1.6-mc1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Smol light-level overlay if you aren't using Dynamic Surroundings.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "oldjunyi"
+    },
+    "literal-ascension": {
+        "ID": "literal-ascension",
+        "Version": "literalascension-1.12.2-2.0.0.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "shadowfacts-forgelin",
+        "Release Type": "Beta",
+        "CF Authors": "jamieswhiteshirt_"
+    },
+    "login-shield": {
+        "ID": "login-shield",
+        "Version": "Login_Shield-1.12.2-3-g7c6e7ac.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Glasspelican"
+    },
+    "loot-capacitor-tooltips": {
+        "ID": "loot-capacitor-tooltips",
+        "Version": "lootcapacitortooltips-1.3.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "tfarecnim"
+    },
+    "mage": {
+        "ID": "mage",
+        "Version": "MAGE-0.2.4.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Configurable graphics enhancements. Highly recomended.",
+        "Optional": "true",
+        "Release Type": "Beta",
+        "CF Authors": "asiekierka"
+    },
+    "magical-map": {
+        "ID": "magical-map",
+        "Version": "Magical Map-1.12.2-3.3.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "placebo",
+        "Release Type": "Release",
+        "CF Authors": "Shadows_of_Fire"
+    },
+    "malisiscore": {
+        "ID": "malisiscore",
+        "Version": "malisiscore-1.12.2-6.5.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Ordinastie"
+    },
+    "malisisdoors": {
+        "ID": "malisisdoors",
+        "Version": "malisisdoors-1.12.2-7.3.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "malisiscore",
+        "Release Type": "Release",
+        "CF Authors": "Ordinastie"
+    },
+    "mantle": {
+        "ID": "mantle",
+        "Version": "Mantle-1.12-1.3.3.55.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "bonusboni, mDiyo, ProgWML6"
+    },
+    "matteroverdrive": {
+        "ID": "matteroverdrive",
+        "Version": "MatterOverdrive-1.12.2-0.7.1.0-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Buuz135, HRZNStudio, The_CodedOne"
+    },
+    "max-potion-id-extender": {
+        "ID": "max-potion-id-extender",
+        "Version": "maxpotidext-1.0.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "zabi94"
+    },
+    "mcjtylib": {
+        "ID": "mcjtylib",
+        "Version": "mcjtylib-1.12-3.5.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "McJty"
+    },
+    "mcmultipart": {
+        "ID": "mcmultipart",
+        "Version": "MCMultiPart-2.5.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "amadornes"
+    },
+    "mekanism": {
+        "ID": "mekanism",
+        "Version": "Mekanism-1.12.2-9.8.3.390.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "bradyaidanc, pupnewfster, Thiakil, thommy101"
+    },
+    "mekanism-generators": {
+        "ID": "mekanism-generators",
+        "Version": "MekanismGenerators-1.12.2-9.8.3.390.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mekanism",
+        "Release Type": "Release",
+        "CF Authors": "bradyaidanc, pupnewfster, Thiakil, thommy101"
+    },
+    "mekanism-tools": {
+        "ID": "mekanism-tools",
+        "Version": "MekanismTools-1.12.2-9.8.3.390.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mekanism",
+        "Release Type": "Release",
+        "CF Authors": "bradyaidanc, pupnewfster, Thiakil, thommy101"
+    },
+    "mekanismores": {
+        "ID": "mekanismores",
+        "Version": "mekores-2.0.13.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mekanism",
+        "Release Type": "Release",
+        "CF Authors": "phantamanta44"
+    },
+    "metalchests": {
+        "ID": "metalchests",
+        "Version": "MetalChests-v6.1.0+mc1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "tbone",
+        "Release Type": "Release",
+        "CF Authors": "t145_irl"
+    },
+    "minecraft-comes-alive-mca": {
+        "ID": "minecraft-comes-alive-mca",
+        "Version": "MCA-1.12.2-6.1.0-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "WildBamaBoy"
+    },
+    "minemenu": {
+        "ID": "minemenu",
+        "Version": "MineMenu-1.12.2-1.6.11-universal.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Radial menu that can be used for command/keyboard shortcuts. Some keybinds cannot be added to radial menu.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "Girafi"
+    },
+    "minerva-library": {
+        "ID": "minerva-library",
+        "Version": "minerva-library-1.0.13.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "zabi94"
+    },
+    "minetweaker-recipemaker": {
+        "ID": "minetweaker-recipemaker",
+        "Version": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Claycorp, DoubleDoorDev, Dries007"
+    },
+    "mmd-orespawn": {
+        "ID": "mmd-orespawn",
+        "Version": "OreSpawn-1.12-3.3.1.179.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "dshadowwolf, jriwanek"
+    },
+    "mmdlib": {
+        "ID": "mmdlib",
+        "Version": "MMDLib-1.12-1.0.0-rc2.36.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "DarkhaxDev, dshadowwolf, jriwanek, MCModDev"
+    },
+    "mmmmmmmmmmmm": {
+        "ID": "mmmmmmmmmmmm",
+        "Version": "MmmMmmMmmMmm-1.12-1.14.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "bonusboni"
+    },
+    "mob-grinding-utils": {
+        "ID": "mob-grinding-utils",
+        "Version": "MobGrindingUtils-0.3.13.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "vadis365"
+    },
+    "mod-name-tooltip": {
+        "ID": "mod-name-tooltip",
+        "Version": "modnametooltip_1.12.2-1.10.1.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "mezz"
+    },
+    "modern-lights": {
+        "ID": "modern-lights",
+        "Version": "ModernLights-1.0.3_1.12.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "AcnessDev"
+    },
+    "modtweaker": {
+        "ID": "modtweaker",
+        "Version": "modtweaker-4.0.18.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mtlib",
+        "Release Type": "Release",
+        "CF Authors": "Jaredlll08"
+    },
+    "modular-powersuits": {
+        "ID": "modular-powersuits",
+        "Version": "ModularPowersuits-1.12.2-1.0.46.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "machinemuse"
+    },
+    "morph-o-tool": {
+        "ID": "morph-o-tool",
+        "Version": "Morph-o-Tool-1.2-21.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "autoreglib",
+        "Release Type": "Release",
+        "CF Authors": "Vazkii"
+    },
+    "mouse-tweaks": {
+        "ID": "mouse-tweaks",
+        "Version": "MouseTweaks-2.10-mc1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Add extra mouse gestures for inventories and crafting grids.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "YaLTeR"
+    },
+    "mrcrayfish-furniture-mod": {
+        "ID": "mrcrayfish-furniture-mod",
+        "Version": "furniture-6.3.1-1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "MrCrayfish"
+    },
+    "mrcrayfishs-gun-mod": {
+        "ID": "mrcrayfishs-gun-mod",
+        "Version": "guns-0.15.3-1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "obfuscate",
+        "Release Type": "Beta",
+        "CF Authors": "MrCrayfish"
+    },
+    "mrcrayfishs-vehicle-mod": {
+        "ID": "mrcrayfishs-vehicle-mod",
+        "Version": "vehicle-mod-0.43.5-1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "obfuscate",
+        "Release Type": "Beta",
+        "CF Authors": "MrCrayfish"
+    },
+    "mtlib": {
+        "ID": "mtlib",
+        "Version": "MTLib-3.0.6.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "crafttweaker",
+        "Release Type": "Release",
+        "CF Authors": "Jaredlll08"
+    },
+    "mysticallib": {
+        "ID": "mysticallib",
+        "Version": "mysticallib-1.12.2-1.7.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Davoleo_K, EpicSquid319, Martacus, Noobanidus"
+    },
+    "natura": {
+        "ID": "natura",
+        "Version": "natura-1.12.2-4.3.2.69.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mantle",
+        "Release Type": "Release",
+        "CF Authors": "Alexbegt, mDiyo, ProgWML6"
+    },
+    "natures-compass": {
+        "ID": "natures-compass",
+        "Version": "NaturesCompass-1.12.2-1.8.5.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Chaosyr"
+    },
+    "neat": {
+        "ID": "neat",
+        "Version": "Neat 1.4-17.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Simple health and unit frames.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "Vazkii"
+    },
+    "nether-metals": {
+        "ID": "nether-metals",
+        "Version": "NetherMetals-1.12-1.2.0-rc2.76.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mmdlib, mmd-orespawn",
+        "Release Type": "Release",
+        "CF Authors": "dshadowwolf, jriwanek, knoxhack"
+    },
+    "netherex": {
+        "ID": "netherex",
+        "Version": "NetherEx-1.12.2-2.1.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "libraryex",
+        "Release Type": "Release",
+        "CF Authors": "LogicTechCorp"
+    },
+    "netherportalfix": {
+        "ID": "netherportalfix",
+        "Version": "NetherPortalFix_1.12.1-5.3.17.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "BlayTheNinth"
+    },
+    "nonausea": {
+        "ID": "nonausea",
+        "Version": "NoNausea-MC1.12-1.0.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Lumien231"
+    },
+    "notenoughcodecs": {
+        "ID": "notenoughcodecs",
+        "Version": "NotEnoughCodecs-0.6.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "0x00716F62, OpenMods"
+    },
+    "notenoughids": {
+        "ID": "notenoughids",
+        "Version": "NotEnoughIDs-1.5.4.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "fewizz_, sfPlayer1"
+    },
+    "numina": {
+        "ID": "numina",
+        "Version": "Numina-1.12.2-1.0.38.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "machinemuse"
+    },
+    "nutrition": {
+        "ID": "Nutrition",
+        "Version": "Nutrition-1.12.2-4.4.0",
+        "Provider": "DIRECT",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Url": "https://github.com/WesCook/Nutrition/releases/download/v4.4.0/Nutrition-1.12.2-4.4.0.jar"
+    },
+    "obfuscate": {
+        "ID": "obfuscate",
+        "Version": "obfuscate-0.4.2-1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "MrCrayfish"
+    },
+    "omlib": {
+        "ID": "omlib",
+        "Version": "omlib-1.12.2-3.1.4-249.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Keridos"
+    },
+    "openmodularturrets": {
+        "ID": "openmodularturrets",
+        "Version": "openmodularturrets-1.12.2-3.1.7-367.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "omlib",
+        "Release Type": "Release",
+        "CF Authors": "Keridos"
+    },
+    "openblocks": {
+        "ID": "openblocks",
+        "Version": "OpenBlocks-1.12.2-1.8.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "openmodslib",
+        "Release Type": "Release",
+        "CF Authors": "0x00716F62, OpenMods"
+    },
+    "opencomputers": {
+        "ID": "opencomputers",
+        "Version": "OpenComputers-MC1.12.2-1.7.5.192.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Sangar_"
+    },
+    "openeye": {
+        "ID": "openeye",
+        "Version": "OpenEye-1.12.2-0.8.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Description": "Automatically collects and submits crash reports. Enable if asked or wish to help sort issues with the pack.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "0x00716F62, OpenMods"
+    },
+    "openmodslib": {
+        "ID": "openmodslib",
+        "Version": "OpenModsLib-1.12.2-0.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "0x00716F62, OpenMods"
+    },
+    "outfox": {
+        "ID": "outfox",
+        "Version": "outfox-0.1.4-mc1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "ItsTheKais"
+    },
+    "paintings": {
+        "ID": "paintings",
+        "Version": "morepaintings-paintings-1.12.2-5.0.1.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "AbsolemJackdaw"
+    },
+    "pams-harvestcraft": {
+        "ID": "pams-harvestcraft",
+        "Version": "Pam's HarvestCraft 1.12.2zg.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "pamharvestcraft"
+    },
+    "passthrough-signs": {
+        "ID": "passthrough-signs",
+        "Version": "PassthroughSigns-1.12.2-2.1.5.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Girafi"
+    },
+    "patchouli": {
+        "ID": "patchouli",
+        "Version": "Patchouli-1.0-20.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Vazkii"
+    },
+    "peckish": {
+        "ID": "peckish",
+        "Version": "Peckish-1.12-1.1.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "HeckinChloe"
+    },
+    "pewter": {
+        "ID": "pewter",
+        "Version": "Pewter-1.4.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "tinkers-construct, shadowfacts-forgelin",
+        "Release Type": "Release",
+        "CF Authors": "ejektaflex"
+    },
+    "phosphor-forge": {
+        "ID": "phosphor-forge",
+        "Version": "phosphor-forge-mc1.12.2-0.2.7-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "jellysquid_"
+    },
+    "placebo": {
+        "ID": "placebo",
+        "Version": "Placebo-1.12.2-1.6.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Shadows_of_Fire"
+    },
+    "platforms": {
+        "ID": "platforms",
+        "Version": "platforms-1.12.0-1.4.6.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "shetiphiancore",
+        "Release Type": "Release",
+        "CF Authors": "ShetiPhian"
+    },
+    "portality": {
+        "ID": "portality",
+        "Version": "portality-1.12.2-1.2.3-15.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "ctm",
+        "Release Type": "Release",
+        "CF Authors": "Buuz135"
+    },
+    "practical-logistics-2": {
+        "ID": "practical-logistics-2",
+        "Version": "practicallogistics2-1.12.2-3.0.8-11.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "sonar-core, mcmultipart",
+        "Release Type": "Release",
+        "CF Authors": "sonar_sonic"
+    },
+    "preston": {
+        "ID": "preston",
+        "Version": "Preston-0.3.5.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "asiekierka"
+    },
+    "project-intelligence": {
+        "ID": "project-intelligence",
+        "Version": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "codechicken-lib-1-8, redstone-flux, brandons-core",
+        "Release Type": "Release",
+        "CF Authors": "brandon3055"
+    },
+    "psi": {
+        "ID": "psi",
+        "Version": "Psi-r1.1-77.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "autoreglib",
+        "Release Type": "Release",
+        "CF Authors": "Vazkii"
+    },
+    "ptrlib": {
+        "ID": "ptrlib",
+        "Version": "PTRLib-1.0.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "ProfMobius, RazzleberryFox, taelnia"
+    },
+    "quark": {
+        "ID": "quark",
+        "Version": "Quark-r1.6-178.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "autoreglib",
+        "Release Type": "Release",
+        "CF Authors": "Vazkii, wiresegal"
+    },
+    "quark-oddities": {
+        "ID": "quark-oddities",
+        "Version": "QuarkOddities-1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "autoreglib, quark",
+        "Release Type": "Release",
+        "CF Authors": "Vazkii"
+    },
+    "quick-leaf-decay": {
+        "ID": "quick-leaf-decay",
+        "Version": "QuickLeafDecay-MC1.12.1-1.2.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Lumien231"
+    },
+    "rainbow-oak-trees": {
+        "ID": "rainbow-oak-trees",
+        "Version": "RainbowOaks-1.12-1.0.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "csb987"
+    },
+    "random-psideas": {
+        "ID": "random-psideas",
+        "Version": "rpsideas-2.4.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "librarianlib, psi, autoreglib, shadowfacts-forgelin",
+        "Release Type": "Release",
+        "CF Authors": "kamefrede123, wiresegal"
+    },
+    "random-things": {
+        "ID": "random-things",
+        "Version": "RandomThings-MC1.12.2-4.2.7.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Lumien231"
+    },
+    "randompatches": {
+        "ID": "randompatches",
+        "Version": "randompatches-1.12.2-1.21.0.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TheRandomLabs"
+    },
+    "randomtweaks": {
+        "ID": "randomtweaks",
+        "Version": "randomtweaks-1.12.2-2.7.1.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TheRandomLabs"
+    },
+    "ranged-pumps": {
+        "ID": "ranged-pumps",
+        "Version": "rangedpumps-0.5.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "raoulvdberge"
+    },
+    "reauth": {
+        "ID": "reauth",
+        "Version": "reauth-3.6.0.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TechnicianLP"
+    },
+    "reborncore": {
+        "ID": "reborncore",
+        "Version": "RebornCore-1.12.2-3.19.2.522-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "GigaBit101, modmuss50, ProspectorDev"
+    },
+    "rebornstorage": {
+        "ID": "rebornstorage",
+        "Version": "RebornStorage-1.12.2-3.3.4.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "refined-storage, reborncore",
+        "Release Type": "Release",
+        "CF Authors": "GigaBit101, modmuss50"
+    },
+    "recurrent-complex": {
+        "ID": "recurrent-complex",
+        "Version": "RecurrentComplex-1.4.8.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "ivtoolkit",
+        "Release Type": "Release",
+        "CF Authors": "Ivorforce"
+    },
+    "redstone-arsenal": {
+        "ID": "redstone-arsenal",
+        "Version": "RedstoneArsenal-1.12.2-2.6.4.1-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "cofh-core",
+        "Release Type": "Release",
+        "CF Authors": "KingLemmingCoFH, TeamCoFH"
+    },
+    "redstone-flux": {
+        "ID": "redstone-flux",
+        "Version": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "KingLemmingCoFH, TeamCoFH"
+    },
+    "redstone-paste": {
+        "ID": "redstone-paste",
+        "Version": "redstonepaste-mc1.12-1.7.5.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "FyberOptic"
+    },
+    "refined-avaritia": {
+        "ID": "refined-avaritia",
+        "Version": "refined_avaritia-1.12.2-2.6.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "refined-storage",
+        "Release Type": "Release",
+        "CF Authors": "PricelessKoala"
+    },
+    "refined-storage": {
+        "ID": "refined-storage",
+        "Version": "refinedstorage-1.6.15.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "raoulvdberge"
+    },
+    "refined-storage-addons": {
+        "ID": "refined-storage-addons",
+        "Version": "refinedstorageaddons-0.4.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "refined-storage",
+        "Release Type": "Release",
+        "CF Authors": "raoulvdberge"
+    },
+    "rf-lux": {
+        "ID": "rf-lux",
+        "Version": "rflux-1.12-0.4.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mcjtylib",
+        "Release Type": "Release",
+        "CF Authors": "McJty, romelo333"
+    },
+    "rftools": {
+        "ID": "rftools",
+        "Version": "rftools-1.12-7.73.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mcjtylib",
+        "Release Type": "Release",
+        "CF Authors": "McJty"
+    },
+    "rftools-dimensions": {
+        "ID": "rftools-dimensions",
+        "Version": "rftoolsdim-1.12-5.71.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "rftools, mcjtylib",
+        "Release Type": "Release",
+        "CF Authors": "McJty"
+    },
+    "rftools-power": {
+        "ID": "rftools-power",
+        "Version": "rftoolspower-1.12-1.2.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mcjtylib",
+        "Release Type": "Release",
+        "CF Authors": "McJty"
+    },
+    "roboticparts": {
+        "ID": "roboticparts",
+        "Version": "cyberware-1.12.2-0.2.11.23.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Aun_Sar"
+    },
+    "roguelike-dungeons": {
+        "ID": "roguelike-dungeons",
+        "Version": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "greymerktv"
+    },
+    "sampler": {
+        "ID": "sampler",
+        "Version": "sampler-1.84.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Description": "***Admin/diagnostic tool. Leave off unless asked to help test performance issues.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "sfPlayer1"
+    },
+    "sanlib": {
+        "ID": "sanlib",
+        "Version": "SanLib-1.12.2-1.5.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "SanAndreasP"
+    },
+    "save-my-stronghold": {
+        "ID": "save-my-stronghold",
+        "Version": "savemystronghold-1.12.2-1.0.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "YUNGNICKYOUNG"
+    },
+    "scannable": {
+        "ID": "scannable",
+        "Version": "Scannable-MC1.12.2-1.6.3.24.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Sangar_"
+    },
+    "shadowfacts-forgelin": {
+        "ID": "shadowfacts-forgelin",
+        "Version": "Forgelin-1.8.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "ShadowfactsDev"
+    },
+    "shetiphiancore": {
+        "ID": "shetiphiancore",
+        "Version": "shetiphiancore-1.12.0-3.5.9.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "ShetiPhian"
+    },
+    "simple-sponge": {
+        "ID": "simple-sponge",
+        "Version": "SimpleSponge-1.12.2-3.6.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "gunpowderlib",
+        "Release Type": "Release",
+        "CF Authors": "Jackyy, Turkey2349"
+    },
+    "simple-void-world": {
+        "ID": "simple-void-world",
+        "Version": "Simple-Void-World-1.12-1.2.0.9-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "reborncore",
+        "Release Type": "Release",
+        "CF Authors": "modmuss50"
+    },
+    "simply-jetpacks-2": {
+        "ID": "simply-jetpacks-2",
+        "Version": "SimplyJetpacks2-1.12.2-2.2.14.67.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "redstone-flux",
+        "Release Type": "Release",
+        "CF Authors": "Tomson124"
+    },
+    "slice": {
+        "ID": "Slice",
+        "Version": "Slice",
+        "Provider": "DIRECT",
+        "Side": "CLIENT",
+        "Description": "Custom client font based off of Chicago. Made by Falkreon.",
+        "Optional": "true",
+        "Url": "https://centerofthemultiverse.net/launcher/mirror/Slice.zip"
+    },
+    "smooth-font": {
+        "ID": "smooth-font",
+        "Version": "SmoothFont-mc1.12.2-2.1.1.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "It smoothes fonts.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "bre2el"
+    },
+    "snad": {
+        "ID": "snad",
+        "Version": "Snad-1.12.1-1.7.09.16a.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TheRoBrit"
+    },
+    "sonar-core": {
+        "ID": "sonar-core",
+        "Version": "sonarcore-1.12.2-5.0.19-20.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "sonar_sonic"
+    },
+    "soot": {
+        "ID": "soot",
+        "Version": "Soot-1.6.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "embers-rekindled",
+        "Release Type": "Release",
+        "CF Authors": "BordListian"
+    },
+    "spartan-shields": {
+        "ID": "spartan-shields",
+        "Version": "SpartanShields-1.12.2-1.5.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "ObliviousSpartan"
+    },
+    "spice-of-life-carrot-edition": {
+        "ID": "spice-of-life-carrot-edition",
+        "Version": "solcarrot-1.12.2-1.8.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "applecore",
+        "Release Type": "Release",
+        "CF Authors": "lordcazsius"
+    },
+    "steves-carts-reborn": {
+        "ID": "steves-carts-reborn",
+        "Version": "StevesCarts-1.12.2-2.4.32.137.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "reborncore",
+        "Release Type": "Release",
+        "CF Authors": "modmuss50"
+    },
+    "stimmedcow-nomorerecipeconflict": {
+        "ID": "stimmedcow-nomorerecipeconflict",
+        "Version": "NoMoreRecipeConflict-0.13(1.12.2).jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "GotoLink"
+    },
+    "storage-drawers": {
+        "ID": "storage-drawers",
+        "Version": "StorageDrawers-1.12.2-5.4.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "chameleon",
+        "Release Type": "Release",
+        "CF Authors": "Texelsaur"
+    },
+    "storage-drawers-extras": {
+        "ID": "storage-drawers-extras",
+        "Version": "StorageDrawersExtras-1.12-3.1.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "chameleon, storage-drawers",
+        "Release Type": "Release",
+        "CF Authors": "Texelsaur"
+    },
+    "surge": {
+        "ID": "surge",
+        "Version": "Surge-1.12.2-2.0.79.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "DarkhaxDev"
+    },
+    "swingthroughgrass": {
+        "ID": "swingthroughgrass",
+        "Version": "stg-1.12.2-1.2.3.jar",
+        "Provider": "CURSE",
+        "Side": "SERVER",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "exidex"
+    },
+    "tails": {
+        "ID": "tails",
+        "Version": "Tails-1.12-1.10.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Kihira, TTFTCUTS"
+    },
+    "tbone": {
+        "ID": "tbone",
+        "Version": "TBone-v1.6.8+mc1.12.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "t145_irl"
+    },
+    "tesla-core-lib": {
+        "ID": "tesla-core-lib",
+        "Version": "tesla-core-lib-1.12.2-1.0.17.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "shadowfacts-forgelin",
+        "Release Type": "Release",
+        "CF Authors": "face_of_cat"
+    },
+    "the-disenchanter-mod": {
+        "ID": "the-disenchanter-mod",
+        "Version": "disenchanter-[1.12]1.6.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "impelon"
+    },
+    "the-lost-cities": {
+        "ID": "the-lost-cities",
+        "Version": "lostcities-1.12-2.0.22.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "McJty"
+    },
+    "the-one-probe": {
+        "ID": "the-one-probe",
+        "Version": "theoneprobe-1.12-1.4.28.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "McJty"
+    },
+    "thermal-dynamics": {
+        "ID": "thermal-dynamics",
+        "Version": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "codechicken-lib-1-8, thermal-foundation",
+        "Release Type": "Release",
+        "CF Authors": "KingLemmingCoFH, RWTema, TeamCoFH"
+    },
+    "thermal-expansion": {
+        "ID": "thermal-expansion",
+        "Version": "ThermalExpansion-1.12.2-5.5.6.1-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "codechicken-lib-1-8, thermal-foundation",
+        "Release Type": "Release",
+        "CF Authors": "KingLemmingCoFH, TeamCoFH"
+    },
+    "thermal-foundation": {
+        "ID": "thermal-foundation",
+        "Version": "ThermalFoundation-1.12.2-2.6.6.1-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "cofh-core, cofh-world",
+        "Release Type": "Release",
+        "CF Authors": "KingLemmingCoFH, TeamCoFH"
+    },
+    "thermal-innovation": {
+        "ID": "thermal-innovation",
+        "Version": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "thermal-foundation",
+        "Release Type": "Release",
+        "CF Authors": "KingLemmingCoFH, TeamCoFH"
+    },
+    "tinkers-jei": {
+        "ID": "tinkers-jei",
+        "Version": "tinkersjei-1.2.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Required Dependencies": "tinkers-construct, jei",
+        "Release Type": "Release",
+        "CF Authors": "Possible_triangle"
+    },
+    "tinkers-construct": {
+        "ID": "tinkers-construct",
+        "Version": "TConstruct-1.12.2-2.13.0.183.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mantle",
+        "Release Type": "Release",
+        "CF Authors": "bonusboni, KnightMiner, mDiyo"
+    },
+    "tinkers-complement": {
+        "ID": "tinkers-complement",
+        "Version": "TinkersComplement-1.12.2-0.4.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mantle, tinkers-construct",
+        "Release Type": "Release",
+        "CF Authors": "KnightMiner"
+    },
+    "tinkers-tool-leveling": {
+        "ID": "tinkers-tool-leveling",
+        "Version": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Required Dependencies": "mantle, tinkers-construct",
+        "Release Type": "Release",
+        "CF Authors": "bonusboni"
+    },
+    "toast-control": {
+        "ID": "toast-control",
+        "Version": "Toast Control-1.12.2-1.8.1.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Optional": "false",
+        "Required Dependencies": "placebo",
+        "Release Type": "Release",
+        "CF Authors": "Shadows_of_Fire"
+    },
+    "tool-belt": {
+        "ID": "tool-belt",
+        "Version": "ToolBelt-1.12.2-1.9.12.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "gigaherz"
+    },
+    "unity": {
+        "ID": "unity",
+        "Version": "Unity-1.6.5-1.12-YABBandaid.zip",
+        "Provider": "CURSE",
+        "Filename": "Unity.zip",
+        "Side": "CLIENT",
+        "Description": "Multi-mod compatible resource pack.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "theCyanideX"
+    },
+    "unlimited-chisel-works": {
+        "ID": "unlimited-chisel-works",
+        "Version": "UnlimitedChiselWorks-0.3.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "asiekierka"
+    },
+    "upsizer-mod": {
+        "ID": "upsizer-mod",
+        "Version": "upsizer-mc1.12-4.0.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "The_Wabbit0101"
+    },
+    "valkyrielib": {
+        "ID": "valkyrielib",
+        "Version": "valkyrielib-1.12.2-2.0.20.1.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "ValkyrieofNight"
+    },
+    "viescraft-airships": {
+        "ID": "viescraft-airships",
+        "Version": "ViesCraft-1.12.2-5.9.16.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "Vies"
+    },
+    "wall-jump": {
+        "ID": "wall-jump",
+        "Version": "walljump-1.12.2-1.3.2.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "genandnic"
+    },
+    "wearable-backpacks": {
+        "ID": "wearable-backpacks",
+        "Version": "WearableBackpacks-1.12.2-3.1.4.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "asiekierka, HeckinChloe, user-6837585"
+    },
+    "wrapup": {
+        "ID": "wrapup",
+        "Version": "WrapUp-1.12-1.1.3.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TheLMiffy1111"
+    },
+    "xaeros-minimap": {
+        "ID": "xaeros-minimap",
+        "Version": "Xaeros_Minimap_20.5.2_Forge_1.12.jar",
+        "Provider": "CURSE",
+        "Side": "CLIENT",
+        "Description": "Alternative to Journeymap.",
+        "Optional": "true",
+        "Release Type": "Release",
+        "CF Authors": "xaero96"
+    },
+    "xtones": {
+        "ID": "xtones",
+        "Version": "Xtones-1.12-1.0.8-11.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "TehNut, _ForgeUser9211286"
+    },
+    "yoyos": {
+        "ID": "yoyos",
+        "Version": "yoyos_1.12.2-1.3.3.25.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Release",
+        "CF Authors": "jozufozu"
+    },
+    "zerocore": {
+        "ID": "zerocore",
+        "Version": "zerocore-1.12.2-0.1.2.8.jar",
+        "Provider": "CURSE",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Release Type": "Beta",
+        "CF Authors": "ZeroNoRyouki"
+    }
+}

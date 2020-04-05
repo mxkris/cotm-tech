@@ -1,7 +1,7 @@
 mcVersion = "1.12.2"
 title = "Center of the Multiverse - Tech Edition"
 authors = listOf("AnsuzThuriaz")
-version = "0.3.3.rc"
+version = "0.3.3.rc2"
 modloader {
     forge(Forge.mc1_12_2.forge_14_23_5_2847)
 }
@@ -439,10 +439,10 @@ root<Curse> {
                             "Caution: Resource heavy. Adds some flair to particle effects and animations. Highly configurable, costs fps."
                 }
 
-                +(Mod.dynamicSurroundings) {
-                    description =
-                            "Caution: Resource heavy. Lots of configurable features that add immersive sound/visual effects. Includes light-level overlay."
-                }
+//                +(Mod.dynamicSurroundings) {
+//                    description =
+//                            "Caution: Resource heavy. Lots of configurable features that add immersive sound/visual effects. Includes light-level overlay."
+//                }
 
                 +(Mod.chunkAnimator) {
                     description = "Configurable chunk pop-in animator."
